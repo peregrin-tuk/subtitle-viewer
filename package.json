@@ -1,0 +1,21 @@
+{
+  "name": "subtitle-viewer",
+  "version": "1.0.0",
+  "description": "Web extansion to extract and view subtitle files and learn vocabulary from them.",
+  "main": "./src/grab.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "subtitle-viewer"
+  },
+  "author": "valleyhammer",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-plugin-web-extension": "^1.6.1"
+  },
+  "dependencies": {
+    "subtitle": "^4.0.1"
+  }
+}

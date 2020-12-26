@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:version="2" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xml:lang="en">
+ <head>
+  <styling>
+   <style xml:id="AmazonDefaultStyle" tts:fontFamily="monospace" tts:color="white" tts:fontSize="1c"></style>
+  </styling>
+  <layout>
+   <region xml:id="AmazonDefaultRegion" tts:extent="80% 15%" tts:origin="10% 80%" tts:displayAlign="after" tts:textAlign="center"></region>
+  </layout>
+ </head>
+ <body>
+  <div>
+   <p begin="00:00:05.000" end="00:00:09.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [MÚSICA] ♪</p>
+   <p begin="00:00:16.160" end="00:00:19.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: <span>El paisaje del mundo</span><br /><span>ha dejado de parecerse al mundo.</span></p>
+   <p begin="00:00:20.200" end="00:00:21.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Lo vemos desde la ventana,</span></p>
+   <p begin="00:00:22.120" end="00:00:23.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>inaccesible.</span></p>
+   <p begin="00:00:24.200" end="00:00:26.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Las imágenes rompen el corazón</span></p>
+   <p begin="00:00:27.120" end="00:00:28.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>y las cifras también.</span></p>
+   <p begin="00:00:29.800" end="00:00:31.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>El tiempo pasa lento</span></p>
+   <p begin="00:00:31.360" end="00:00:32.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>y la celebración del fin<br />de la pandemia</span></p>
+   <p begin="00:00:32.920" end="00:00:34.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>está aún muy lejos en el futuro.</span></p>
+   <p begin="00:00:36.120" end="00:00:39.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Tan lejos como el nacimiento<br />de Pan y Circo está en el pasado.</span></p>
+   <p begin="00:00:41.360" end="00:00:45.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [SUENA BATERÍA] ♪</p>
+   <p begin="00:00:46.600" end="00:00:48.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Nuestro programa nació<br />hace más de un año.</span></p>
+   <p begin="00:00:48.640" end="00:00:51.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Un año que ahora se siente<br />como cien años,</span></p>
+   <p begin="00:00:51.360" end="00:00:54.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>entonces salíamos a la calle,<br />caminábamos, trabajábamos,</span></p>
+   <p begin="00:00:55.120" end="00:00:59.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>protestábamos, nos divertíamos, comíamos<br />y bebíamos en compañía de otros.</span></p>
+   <p begin="00:01:00.320" end="00:01:04.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Nos besábamos, nos abrazábamos,<br />nadie podía impedírnoslo.</span></p>
+   <p begin="00:01:04.600" end="00:01:06.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Éramos felices y no lo sabíamos.</span></p>
+   <p begin="00:01:07.120" end="00:01:10.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Pan y Circo nació con el objetivo<br />de compartir la comida y la bebida</span></p>
+   <p begin="00:01:10.800" end="00:01:12.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>mientras conversábamos<br />sobre los problemas</span></p>
+   <p begin="00:01:13.000" end="00:01:14.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>del mundo en que vivíamos.</span></p>
+   <p begin="00:01:14.560" end="00:01:17.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Pero también con el propósito<br />de conocer otras realidades.</span></p>
+   <p begin="00:01:18.120" end="00:01:21.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>De recorrer distancias que a veces<br />pensábamos insalvables.</span></p>
+   <p begin="00:01:21.560" end="00:01:24.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Queríamos discutir tan a fondo<br />como pudiéramos,</span></p>
+   <p begin="00:01:24.400" end="00:01:26.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>seis invitadas e invitados,</span></p>
+   <p begin="00:01:26.280" end="00:01:28.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>una chef o un chef,<br />todos intentando encontrar,</span></p>
+   <p begin="00:01:29.000" end="00:01:30.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>el centro de la mesa,</span></p>
+   <p begin="00:01:30.520" end="00:01:32.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>ese que nos pertenece<br />a todas y a todos.</span></p>
+   <p begin="00:01:32.840" end="00:01:34.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [SUENA BATERÍA] ♪</p>
+   <p begin="00:01:35.000" end="00:01:37.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Sabíamos que la mesa<br />no es solo una superficie,</span></p>
+   <p begin="00:01:37.360" end="00:01:39.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>en la mesa<br />nos decimos nuestras verdades,</span></p>
+   <p begin="00:01:39.720" end="00:01:42.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>y que las verdades dichas en la mesa<br />implican confrontación,</span></p>
+   <p begin="00:01:43.160" end="00:01:47.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>pero conciliación y cariño,<br />y amistad también.</span></p>
+   <p begin="00:01:48.080" end="00:01:49.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [MÚSICA] ♪</p>
+   <p begin="00:01:50.520" end="00:01:52.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [MÚSICA] ♪</p>
+   <p begin="00:01:54.280" end="00:01:55.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: <span>Luego vino la gran plaga.</span></p>
+   <p begin="00:01:56.920" end="00:01:59.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>La idea del fin de un mundo,<br />nos cambió a fondo.</span></p>
+   <p begin="00:01:59.960" end="00:02:01.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Nos encerró en nuestras casas,</span></p>
+   <p begin="00:02:01.840" end="00:02:03.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>y el encierro nos obligó<br />a examinarnos.</span></p>
+   <p begin="00:02:04.120" end="00:02:05.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>A mirar dentro de nosotros.</span></p>
+   <p begin="00:02:05.920" end="00:02:08.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [SUENA BATERÍA] ♪</p>
+   <p begin="00:02:10.200" end="00:02:12.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Pero también a volver<br />a pensar en los problemas</span></p>
+   <p begin="00:02:12.360" end="00:02:15.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>que nos preocupaban<br />cuando decidimos hacer Pan y Circo.</span></p>
+   <p begin="00:02:15.760" end="00:02:18.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Por eso es que hoy hacemos<br />este primer episodio</span></p>
+   <p begin="00:02:18.160" end="00:02:19.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>desde el confinamiento.</span></p>
+   <p begin="00:02:19.760" end="00:02:21.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Porque creemos que en el aislamiento</span></p>
+   <p begin="00:02:21.840" end="00:02:24.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>se vuelve esencial hacernos<br />nuevas preguntas.</span></p>
+   <p begin="00:02:24.960" end="00:02:26.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [SUENA BATERÍA] ♪</p>
+   <p begin="00:02:26.720" end="00:02:28.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Les cuento rápidamente,<br />veo que...</p>
+   <p begin="00:02:28.880" end="00:02:31.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en sus planos ya varios<br />abrieron sus cajitas.</p>
+   <p begin="00:02:32.000" end="00:02:36.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Esta caja que les llegó,<br />la diseñó Christopher Lagunes</p>
+   <p begin="00:02:36.320" end="00:02:37.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y su equipo de arte.</p>
+   <p begin="00:02:38.040" end="00:02:41.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y la hicimos en el confinamiento,<br />con reglas de confinamiento,</p>
+   <p begin="00:02:41.520" end="00:02:43.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">nunca estuvo más de<br />una persona con ella.</p>
+   <p begin="00:02:43.880" end="00:02:45.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DAPTNHE: <span>Dame instrucciones</span><br /><span>de cómo abrirla.</span></p>
+   <p begin="00:02:45.600" end="00:02:47.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ahí te voy, ahí te voy.</p>
+   <p begin="00:02:47.160" end="00:02:49.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">La tapa frontal, la que dice<br />Pan y Circo,</p>
+   <p begin="00:02:50.920" end="00:02:52.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">esa se levanta...</p>
+   <p begin="00:02:53.640" end="00:02:54.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y sale.</p>
+   <p begin="00:02:54.920" end="00:02:56.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y esta tapa, para<br />los que quieran, ¿eh?</p>
+   <p begin="00:02:56.960" end="00:02:59.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Obviamente, veo que otros<br />ya se acomodaron mejor,</p>
+   <p begin="00:02:59.280" end="00:03:02.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">pero esta tapa no la tires Daptnhe<br />porque tiene un corcho de este lado</p>
+   <p begin="00:03:03.560" end="00:03:07.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y este se vuelve nuestro<br />mantelillo.</p>
+   <p begin="00:03:07.640" end="00:03:10.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ustedes pueden sacar<br />las cosas de la cajita.</p>
+   <p begin="00:03:10.720" end="00:03:13.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">La idea de esto es que tengan<br />aceite de olivo,</p>
+   <p begin="00:03:13.600" end="00:03:16.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que tengan sal,<br />que tengan la pimienta,</p>
+   <p begin="00:03:16.840" end="00:03:19.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Pan... que a mí la ilusión<br />que me hizo lo del pan</p>
+   <p begin="00:03:19.320" end="00:03:20.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">fue interminable, caray.</p>
+   <p begin="00:03:21.040" end="00:03:23.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No es un pan que haya<br />que comerse inmediatamente,</p>
+   <p begin="00:03:23.640" end="00:03:24.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que sale del horno,</p>
+   <p begin="00:03:24.440" end="00:03:26.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">sino que es un pan que<br />si no se la acaban hoy</p>
+   <p begin="00:03:26.320" end="00:03:29.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">les dura de tres a cuatro días<br />en perfecto estado...</p>
+   <p begin="00:03:29.600" end="00:03:32.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¿Está bien si lo desamarramos ya?<br />Yo ya lo tengo abierto.</p>
+   <p begin="00:03:33.440" end="00:03:35.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: <span>Ella es la maestra</span><br /><span>Julia Carabia</span>s.</p>
+   <p begin="00:03:35.360" end="00:03:36.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Bióloga e investigadora.</span></p>
+   <p begin="00:03:36.800" end="00:03:38.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Activista desde hace<br />más de tres décadas,</span></p>
+   <p begin="00:03:38.800" end="00:03:40.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>en la defensa del medio ambiente.</span></p>
+   <p begin="00:03:40.800" end="00:03:43.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¡Perfecto! Los que ya hicieron esto,<br />no se preocupen...</p>
+   <p begin="00:03:43.640" end="00:03:45.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Yo lo tengo hasta cortado.</p>
+   <p begin="00:03:45.440" end="00:03:48.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ah, tú ya lo tienes en una panera,<br />ya le diste una mordida.</p>
+   <p begin="00:03:49.040" end="00:03:51.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Yo ya me comí...<br />yo ya le di un llegue, sí.</p>
+   <p begin="00:03:51.160" end="00:03:52.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[RISA]</p>
+   <p begin="00:03:52.400" end="00:03:53.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: <span>Él es Emiliano Monge,</span></p>
+   <p begin="00:03:53.440" end="00:03:54.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>escritor y politólogo.</span></p>
+   <p begin="00:03:54.960" end="00:03:57.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Autor de libros de cuentos<br />y novelas en los que destacan:</span></p>
+   <p begin="00:03:57.640" end="00:04:00.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>El cielo árido, La superficie<br />más onda, Y no contar todo.</span></p>
+   <p begin="00:04:00.880" end="00:04:03.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Hoy es columnista del periódico El País.</span></p>
+   <p begin="00:04:03.440" end="00:04:05.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Tienen un vino.</p>
+   <p begin="00:04:05.520" end="00:04:08.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">En mi caso, me mandaron<br />un vino blanco.</p>
+   <p begin="00:04:08.200" end="00:04:11.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Tienen una toallita, porque<br />lo que van a traer de la cocina</p>
+   <p begin="00:04:11.200" end="00:04:12.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">espero esté caliente.</p>
+   <p begin="00:04:12.800" end="00:04:16.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Daptnhe Cuevas, psicóloga social<br />y maestra en economía y gobierno.</span></p>
+   <p begin="00:04:16.400" end="00:04:19.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Activista al frente del consorcio<br />para el diálogo parlamentario</span></p>
+   <p begin="00:04:19.600" end="00:04:20.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>y la equidad.</span></p>
+   <p begin="00:04:21.040" end="00:04:23.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Su kit de prevención antiviral...</p>
+   <p begin="00:04:24.200" end="00:04:26.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">por si en algún momento...</p>
+   <p begin="00:04:26.440" end="00:04:28.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">empiezan a sentir angustia...</p>
+   <p begin="00:04:28.640" end="00:04:30.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: <span>Él es Samuel Ponce de León</span>,</p>
+   <p begin="00:04:30.360" end="00:04:31.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>médico epidemiólogo.</span></p>
+   <p begin="00:04:31.800" end="00:04:33.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Coordinador<br />de la Comisión Universitaria</span></p>
+   <p begin="00:04:33.760" end="00:04:35.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>para la atención<br />de la emergencia Coronavirus.</span></p>
+   <p begin="00:04:36.200" end="00:04:39.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Una vela para<br />los que somos pachulis...</p>
+   <p begin="00:04:39.480" end="00:04:41.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">aquí están los cerillos<br />para que la prendan</p>
+   <p begin="00:04:41.880" end="00:04:43.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y no usen encendedores,</p>
+   <p begin="00:04:43.360" end="00:04:47.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">porque aparentemente el gas<br />ya es cosa de ese otro mundo</p>
+   <p begin="00:04:47.160" end="00:04:48.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que dejamos atrás.</p>
+   <p begin="00:04:48.480" end="00:04:52.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: <span>Jair Téllez, gran cocinero,</span><br /><span>enólogo y antropólog</span>o.</p>
+   <p begin="00:04:52.160" end="00:04:55.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Propietario de los restaurantes<br />Merotoro y Amaya en Ciudad de México</span></p>
+   <p begin="00:04:55.720" end="00:04:58.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>y Laja en el Valle Guadalupe,<br />Baja California.</span></p>
+   <p begin="00:04:58.600" end="00:05:02.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Su lasaña vegetariana<br />que fue cocinada en esta casa,</p>
+   <p begin="00:05:03.080" end="00:05:05.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">el día de ayer y esta sopa...</p>
+   <p begin="00:05:05.920" end="00:05:10.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Eh... que emula cuando<br />podíamos salir los fines de semana</p>
+   <p begin="00:05:10.160" end="00:05:13.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">a la Marquesa, tiene hongos,<br />tiene epazote,</p>
+   <p begin="00:05:13.360" end="00:05:15.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">tiene tofu por si<br />ustedes no iban a la Marquesa,</p>
+   <p begin="00:05:15.800" end="00:05:18.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">iban más bien al... a comer sushi.</p>
+   <p begin="00:05:18.240" end="00:05:20.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Esta es nuestra... nuestro intento</p>
+   <p begin="00:05:20.320" end="00:05:22.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">de emular una comida<br />o una cena</p>
+   <p begin="00:05:22.920" end="00:05:24.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que me hubiera encantado<br />organizar en casa,</p>
+   <p begin="00:05:25.120" end="00:05:27.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y les pido que la calienten.</p>
+   <p begin="00:05:27.360" end="00:05:32.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Métanlas al horno,<br />si tienen un horno a 200 ºC</p>
+   <p begin="00:05:32.560" end="00:05:35.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">por diez minutos, sáquenlas<br />cuando vean el queso doradito</p>
+   <p begin="00:05:36.040" end="00:05:38.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y rico, cuando se ponga negro<br />es que ya se pasó.</p>
+   <p begin="00:05:38.800" end="00:05:43.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [SUENA BATERÍA] ♪</p>
+   <p begin="00:05:50.800" end="00:05:52.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Me tengo que poner esto,</p>
+   <p begin="00:05:53.200" end="00:05:55.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">para cumplir los protocolos.</p>
+   <p begin="00:05:55.680" end="00:05:57.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: Aquí estamos.<br />HOMBRE: <span>Parece que...</span></p>
+   <p begin="00:05:57.400" end="00:05:59.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>en vez de cocinar,<br />estás haciendo una autopsia.</span></p>
+   <p begin="00:05:59.120" end="00:06:02.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: ¡Exacto!<br />[TODOS RÍEN]</p>
+   <p begin="00:06:03.360" end="00:06:04.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[SUENA LÍQUIDO]</p>
+   <p begin="00:06:04.720" end="00:06:06.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: <span>La pandemia</span><br /><span>no creó un mundo nuevo</span>.</p>
+   <p begin="00:06:07.080" end="00:06:09.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Este virus solo subrayó<br />aquellos viejos problemas</span></p>
+   <p begin="00:06:09.600" end="00:06:11.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>que padecemos<br />desde hace mucho tiempo</span></p>
+   <p begin="00:06:11.680" end="00:06:13.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>y que no hemos querido<br />o sabido resolver.</span></p>
+   <p begin="00:06:13.840" end="00:06:16.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Y esas coincidencias<br />nos hicieron pensar</span></p>
+   <p begin="00:06:16.400" end="00:06:18.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>que tal vez sí hubiera<br />un lugar para nuestro programa</span></p>
+   <p begin="00:06:18.840" end="00:06:20.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>en este mundo que<br />parece desmoronarse.</span></p>
+   <p begin="00:06:20.840" end="00:06:22.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Un lugar para conversar,</span></p>
+   <p begin="00:06:22.560" end="00:06:23.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>aunque sea a la distancia,</span></p>
+   <p begin="00:06:24.120" end="00:06:25.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>para comer y compartir<br />los alimentos.</span></p>
+   <p begin="00:06:26.040" end="00:06:28.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Un lugar para entender,<br />antes de juzgar.</span></p>
+   <p begin="00:06:28.840" end="00:06:30.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Aunque esta pandemia pase,</span></p>
+   <p begin="00:06:30.640" end="00:06:32.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>las fracturas del sistema<br />no van a sanar.</span></p>
+   <p begin="00:06:33.040" end="00:06:34.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Y si queremos resolverlas,</span></p>
+   <p begin="00:06:34.800" end="00:06:37.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>si tenemos la voluntad<br />para cerrar esas brechas,</span></p>
+   <p begin="00:06:37.320" end="00:06:39.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>tendremos que sentarnos<br />a la mesa,</span></p>
+   <p begin="00:06:39.440" end="00:06:41.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>así sea cada quien<br />desde su comedor</span></p>
+   <p begin="00:06:41.320" end="00:06:44.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>o cocina y conversar,<br />encontrar puntos de acuerdo.</span></p>
+   <p begin="00:06:44.920" end="00:06:46.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Y ese, precisamente ese,</span></p>
+   <p begin="00:06:46.840" end="00:06:48.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>es el punto principal<br />de Pan y Circo.</span></p>
+   <p begin="00:06:49.560" end="00:06:52.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Bienvenidas y bienvenidos a<br />este primer episodio</span></p>
+   <p begin="00:06:52.240" end="00:06:54.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>que hacemos desde el confinamiento</span></p>
+   <p begin="00:06:54.480" end="00:06:56.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>con el único afán<br />de reflexionar</span></p>
+   <p begin="00:06:56.640" end="00:06:58.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>sobre ese mundo nuevo.</span></p>
+   <p begin="00:07:02.440" end="00:07:04.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y ya la sacaron<br />y en esas cajas</p>
+   <p begin="00:07:04.800" end="00:07:06.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">ya le entraron, ahí viene el pan.</p>
+   <p begin="00:07:07.000" end="00:07:09.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Pero, pues, a ustedes<br />les toca poner el circo.</p>
+   <p begin="00:07:09.920" end="00:07:11.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [MÚSICA] ♪</p>
+   <p begin="00:07:11.960" end="00:07:13.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¡Ah, ya abriste tu vino!</p>
+   <p begin="00:07:13.720" end="00:07:15.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¡Ya abrí mi vino, caray!</p>
+   <p begin="00:07:15.400" end="00:07:16.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Es una comida casera, ¿eh?</p>
+   <p begin="00:07:17.120" end="00:07:18.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">O sea que no esperen...<br />¡Ay, cabrón!</p>
+   <p begin="00:07:19.040" end="00:07:21.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Jair la calentó más rápido,<br />eso me da la sensación</p>
+   <p begin="00:07:21.920" end="00:07:24.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">o de que ya tenía<br />una sopa hecha... [RISA]</p>
+   <p begin="00:07:24.440" end="00:07:25.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y es la que él se va a comer.</p>
+   <p begin="00:07:25.920" end="00:07:27.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No, soy desobediente,<br />lo puse en una olla.</p>
+   <p begin="00:07:28.000" end="00:07:30.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Yo tengo que confesarles que</p>
+   <p begin="00:07:30.160" end="00:07:32.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">no sé si voy a ser capaz<br />de devolverles la caja</p>
+   <p begin="00:07:32.160" end="00:07:33.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que era muy bonita, pero, eh...</p>
+   <p begin="00:07:34.120" end="00:07:36.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">no le encontraba<br />la manera de abrirla</p>
+   <p begin="00:07:36.440" end="00:07:38.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y creo que le rompí<br />un pedacito.</p>
+   <p begin="00:07:38.520" end="00:07:39.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[RISA]</p>
+   <p begin="00:07:39.640" end="00:07:43.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">La caja como todo lo que viene<br />adentro es para ustedes, Emiliano,</p>
+   <p begin="00:07:43.440" end="00:07:46.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">lo que sí te advierto es que<br />no te vamos a reponer la caja</p>
+   <p begin="00:07:46.720" end="00:07:48.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">porque la hayas roto.<br />[RISAS]</p>
+   <p begin="00:07:48.480" end="00:07:50.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Bueno, está bien.<br />Qué bueno que es un regalo.</p>
+   <p begin="00:07:50.720" end="00:07:53.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- Sí, es un regalo.<br />- ¿También la compu,</p>
+   <p begin="00:07:53.080" end="00:07:55.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- ...y todos los iPhones, y todo?<br />EMILIANO - <span>Sí, eso es lo que iba a decir.</span></p>
+   <p begin="00:07:55.720" end="00:07:57.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">EMILIANO:<br /><span>Eso es lo que iba a decir, Julia.</span></p>
+   <p begin="00:07:57.440" end="00:07:59.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">A mí los tripiés me vienen perfecto,<br />me hacían una falta.</p>
+   <p begin="00:07:59.840" end="00:08:01.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Gracias, Diego, un lujo.</p>
+   <p begin="00:08:01.840" end="00:08:05.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Tristemente, esos sí se los vamos<br />a pedir de vuelta.</p>
+   <p begin="00:08:05.400" end="00:08:07.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Pero los cerillos vienen llenos, ¿eh?</p>
+   <p begin="00:08:08.080" end="00:08:09.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[RISAS]</p>
+   <p begin="00:08:12.240" end="00:08:14.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ha sido una situación muy difícil</p>
+   <p begin="00:08:14.800" end="00:08:18.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">yo he estado acostumbrada<br />toda mi vida a trabajar en casa,</p>
+   <p begin="00:08:18.880" end="00:08:21.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">pero también a poder<br />estar permanentemente</p>
+   <p begin="00:08:22.000" end="00:08:25.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">con el equipo de trabajo<br />y viajando a la selva,</p>
+   <p begin="00:08:25.840" end="00:08:27.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">donde están todas<br />nuestras actividades.</p>
+   <p begin="00:08:28.360" end="00:08:34.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Eh, estábamos en los últimos días,<br />además con una enorme emoción</p>
+   <p begin="00:08:34.200" end="00:08:36.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en términos de lo que había ocurrido</p>
+   <p begin="00:08:36.800" end="00:08:40.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">con el día 8 de marzo y 9 de marzo</p>
+   <p begin="00:08:41.240" end="00:08:46.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">de esa marcha espectacular<br />que tuvimos hasta el Zócalo...</p>
+   <p begin="00:08:47.640" end="00:08:50.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">decenas de miles de mujeres.</p>
+   <p begin="00:08:50.520" end="00:08:54.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Eh y el 9 en donde también<br />cambió las cosas, ¿no? Porque...</p>
+   <p begin="00:08:54.480" end="00:08:56.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">se quedaron ustedes<br />sin nosotras un día.</p>
+   <p begin="00:08:56.640" end="00:08:59.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">JULIA: Y de repente nos vino<br />la pandemia.</p>
+   <p begin="00:08:59.520" end="00:09:01.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">En una situación de mucha tensión</p>
+   <p begin="00:09:02.040" end="00:09:05.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que estábamos a la mitad<br />de muchas cosas, concluyendo.</p>
+   <p begin="00:09:06.320" end="00:09:11.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Sí fue un momento muy difícil<br />y estamos verdaderamente</p>
+   <p begin="00:09:11.400" end="00:09:15.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en una situación que nos está dando<br />muchas lecciones, pero sobre todo</p>
+   <p begin="00:09:15.120" end="00:09:17.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">una reflexión muy profunda.</p>
+   <p begin="00:09:17.360" end="00:09:22.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Me voy a pasar a Emiliano, porque<br />yo también te oí decir alguna vez</p>
+   <p begin="00:09:22.360" end="00:09:25.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que esta vida de cuarentena<br />se parecía mucho a tu vida.</p>
+   <p begin="00:09:25.600" end="00:09:27.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Yo lo que quisiera saber es,</p>
+   <p begin="00:09:27.720" end="00:09:30.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¿si hoy escribes como podías<br />escribir antes?</p>
+   <p begin="00:09:30.400" end="00:09:33.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¿Si hoy que no es una elección<br />estar en tu casa escribes igual o no?</p>
+   <p begin="00:09:33.960" end="00:09:36.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Lo primero que pensé fue<br />que no me iba a afectar</p>
+   <p begin="00:09:36.640" end="00:09:39.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">especialmente,<br />porque mi vida cotidiana</p>
+   <p begin="00:09:39.440" end="00:09:42.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">se parece mucho a la vida que iba<br />a tener con la pandemia.</p>
+   <p begin="00:09:42.520" end="00:09:44.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">El asunto es que claro...</p>
+   <p begin="00:09:45.240" end="00:09:47.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">La vida de uno cambia<br />no solamente por la cotidianidad,</p>
+   <p begin="00:09:48.080" end="00:09:50.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">cambia también por la cotidianidad<br />de los otros, ¿no?</p>
+   <p begin="00:09:50.360" end="00:09:53.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y entonces, yo trabajaba en casa<br />estando casi siempre solo,</p>
+   <p begin="00:09:54.080" end="00:09:57.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">ahora en casa estamos encerrados<br />mi pareja, el chamaco y yo.</p>
+   <p begin="00:09:58.080" end="00:10:00.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y este... eso ya cambia el entorno.</p>
+   <p begin="00:10:01.080" end="00:10:03.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y además, vivo mi encierro<br />y vivo el encierro de ellos, también.</p>
+   <p begin="00:10:03.840" end="00:10:06.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">La escritura necesita<br />de silencio, digamos,</p>
+   <p begin="00:10:07.000" end="00:10:09.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">pero no solamente<br />de silencio físico.</p>
+   <p begin="00:10:09.600" end="00:10:12.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Eh, una suerte de silencio<br />en muchos aspectos.</p>
+   <p begin="00:10:12.880" end="00:10:15.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y lo que más hace falta<br />en esta situación,</p>
+   <p begin="00:10:15.480" end="00:10:17.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">es silencio, ¿no? Precisamente,</p>
+   <p begin="00:10:17.320" end="00:10:19.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">hay un ruido de fondo<br />que está en la calle,</p>
+   <p begin="00:10:19.320" end="00:10:21.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y que nos preocupa a todos, ¿no?</p>
+   <p begin="00:10:21.080" end="00:10:23.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Uno está disperso,<br />está en veinte temas.</p>
+   <p begin="00:10:23.840" end="00:10:27.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y eso hace que, que la relación<br />con la cotidianidad sea muy compleja.</p>
+   <p begin="00:10:28.360" end="00:10:31.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Como por ahí del 14, 13 de marzo</p>
+   <p begin="00:10:31.280" end="00:10:33.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">fue que me quedó claro<br />que esto...</p>
+   <p begin="00:10:34.600" end="00:10:38.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que esto iba a generar cambios</p>
+   <p begin="00:10:38.160" end="00:10:40.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">estructurales y que si no hacíamos<br />esos cambios</p>
+   <p begin="00:10:40.960" end="00:10:43.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">desde fondo en este momento,</p>
+   <p begin="00:10:43.640" end="00:10:47.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">íbamos a estar gastando<br />todo el esfuerzo emocional,</p>
+   <p begin="00:10:47.640" end="00:10:50.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">económico para mantener chueco<br />al chueco,</p>
+   <p begin="00:10:50.640" end="00:10:56.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en vez de realmente replantear<br />y hacer de este replanteamiento de fondo.</p>
+   <p begin="00:10:56.200" end="00:11:00.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Obviamente, pues llega un momento<br />en el que mi... mi bienestar</p>
+   <p begin="00:11:00.600" end="00:11:04.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">es el bienestar de ochenta personas<br />que trabajaban con nosotros, ¿no?</p>
+   <p begin="00:11:05.800" end="00:11:10.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y este, y cómo empatar<br />la vida real, mía,</p>
+   <p begin="00:11:10.600" end="00:11:14.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">porque estamos hasta cierto<br />punto acostumbrados a ver</p>
+   <p begin="00:11:14.360" end="00:11:17.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">la tragedia de lejos<br />y a ver el padecimiento de lejos</p>
+   <p begin="00:11:17.720" end="00:11:21.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y a sentir una empatía y vernos<br />a nosotros mismos como...</p>
+   <p begin="00:11:21.520" end="00:11:24.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">sin querer queriendo somos<br />parte de una parte opresora y eso,</p>
+   <p begin="00:11:24.920" end="00:11:27.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">pero esta es la primera vez<br />que estamos en carne propia</p>
+   <p begin="00:11:27.200" end="00:11:29.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">viviendo el este... el colapso, ¿no?</p>
+   <p begin="00:11:29.400" end="00:11:33.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">De... de al menos un paisaje<br />como lo entendíamos.</p>
+   <p begin="00:11:34.560" end="00:11:36.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Yo no sé si tengo restaurantes<br />o tenía,</p>
+   <p begin="00:11:36.720" end="00:11:40.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">eh, pero a final de cuentas,<br />todo partirá de</p>
+   <p begin="00:11:40.320" end="00:11:44.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">de un entendimiento mayor<br />sobre el momento, ¿no?</p>
+   <p begin="00:11:44.760" end="00:11:48.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Cómo te explicas que la industria<br />restaurantera en todo el mundo,</p>
+   <p begin="00:11:48.520" end="00:11:52.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en Japón, en Dinamarca,<br />en todo el mundo se colapsó.</p>
+   <p begin="00:11:52.440" end="00:11:53.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">En nuestro caso,</p>
+   <p begin="00:11:54.120" end="00:11:58.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">no hay manera de... posible<br />en la que vayamos a...</p>
+   <p begin="00:11:59.560" end="00:12:01.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">ser iguales después de esto.</p>
+   <p begin="00:12:01.720" end="00:12:05.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [MÚSICA] ♪</p>
+   <p begin="00:12:05.640" end="00:12:07.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¿No venía salada la sopa, verdad?</p>
+   <p begin="00:12:07.120" end="00:12:08.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- ¡No, hombre!<br />- Buenísima.</p>
+   <p begin="00:12:08.600" end="00:12:10.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- Muy bien.<br />- Muy buena.</p>
+   <p begin="00:12:10.640" end="00:12:11.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: <span>¡Ah, bueno!</span></p>
+   <p begin="00:12:11.760" end="00:12:13.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">EMILIANO: <span>Yo lo malo</span><br /><span>es que ya me la acabé.</span></p>
+   <p begin="00:12:13.560" end="00:12:15.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">JULIA: <span>Primer paso librado.</span></p>
+   <p begin="00:12:15.440" end="00:12:17.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¿Tú ya estás en la lasaña?</p>
+   <p begin="00:12:17.480" end="00:12:18.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¡Venga!</p>
+   <p begin="00:12:18.840" end="00:12:20.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Pero hay tiempos,<br />hay orden.</p>
+   <p begin="00:12:21.440" end="00:12:23.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Me dio terror<br />porque se estaba enfriando.</p>
+   <p begin="00:12:23.320" end="00:12:24.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No quise comérmela fría.</p>
+   <p begin="00:12:24.920" end="00:12:28.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y puedo decir... puedo decir<br />que está buenísima la lasaña, ¿eh?</p>
+   <p begin="00:12:28.360" end="00:12:30.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¡Ah, qué chingón! Ya, entonces...<br />¿Ya saben, qué?</p>
+   <p begin="00:12:30.840" end="00:12:33.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Con eso terminamos el programa,<br />muchas gracias.</p>
+   <p begin="00:12:34.280" end="00:12:36.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">HUGO L. GATELL: <span>Les garantizo</span><br /><span>que el virus va llegar a </span>México,</p>
+   <p begin="00:12:36.920" end="00:12:40.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>no es algo que me guste, pero<br />tenemos que tenerlo muy claro.</span></p>
+   <p begin="00:12:40.160" end="00:12:42.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">El pleno del Consejo<br />de Salubridad General,</p>
+   <p begin="00:12:42.280" end="00:12:46.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">reconoce la epidemia de enfermedad<br />por el virus SARS-CoV-2,</p>
+   <p begin="00:12:46.280" end="00:12:48.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">conocida como COVID,<br />en México</p>
+   <p begin="00:12:48.480" end="00:12:51.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">como una enfermedad grave<br />de atención prioritaria.</p>
+   <p begin="00:12:52.000" end="00:12:56.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">El momento, evidentemente<br />nos tomó por sorpresa,</p>
+   <p begin="00:12:56.560" end="00:13:01.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">por más que las historias<br />decían que venía la pandemia...</p>
+   <p begin="00:13:01.680" end="00:13:04.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">SAMUEL: <span>evidentemente genera un...</span></p>
+   <p begin="00:13:04.400" end="00:13:06.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>De entrada<br />un sentimiento de tristeza</span></p>
+   <p begin="00:13:07.240" end="00:13:09.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>profundo,<br />por lo que nos impone.</span></p>
+   <p begin="00:13:10.160" end="00:13:12.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Porque nos impone<br />el aislamiento.</span></p>
+   <p begin="00:13:12.400" end="00:13:15.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Todo aquellos que no sufren<br />directamente</p>
+   <p begin="00:13:15.320" end="00:13:17.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">la infección por el virus,</p>
+   <p begin="00:13:17.520" end="00:13:20.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">evidentemente están<br />atemorizados por tenerlo,</p>
+   <p begin="00:13:20.640" end="00:13:22.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">SAMUEL: <span>y los que lo sufren, eh...</span></p>
+   <p begin="00:13:22.880" end="00:13:25.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>aunque la gran mayoría<br />tiene una evolución benigna</span></p>
+   <p begin="00:13:26.200" end="00:13:28.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>en una pequeña<br />proporción realmente</span></p>
+   <p begin="00:13:28.600" end="00:13:30.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>tienen una enfermedad muy grave.</span></p>
+   <p begin="00:13:30.680" end="00:13:33.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y es triste ver como no hay<br />suficiencia de recursos</p>
+   <p begin="00:13:34.040" end="00:13:37.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">para tratar esto,<br />porque no la había desde antes,</p>
+   <p begin="00:13:37.240" end="00:13:38.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y porque menos la hay ahora,</p>
+   <p begin="00:13:39.000" end="00:13:41.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">por más que haya sido<br />buena la respuesta,</p>
+   <p begin="00:13:41.920" end="00:13:45.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">hay un desencanto<br />porque tenemos dos situaciones</p>
+   <p begin="00:13:45.360" end="00:13:47.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que ciertamente son agraviantes.</p>
+   <p begin="00:13:47.520" end="00:13:51.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Uno, cómo se agrede<br />en ocasiones al personal de salud,</p>
+   <p begin="00:13:51.800" end="00:13:54.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en nuestro ambiente,</p>
+   <p begin="00:13:55.000" end="00:13:58.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y cómo... no solo<br />el público, sino también</p>
+   <p begin="00:13:58.440" end="00:14:00.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">eh, las altas autoridades,</p>
+   <p begin="00:14:00.800" end="00:14:05.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">de repente... tienen desatinos<br />en términos de algunos comentarios,</p>
+   <p begin="00:14:05.440" end="00:14:07.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">poco oportuno, desafortunado,</p>
+   <p begin="00:14:07.440" end="00:14:10.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y con un grado<br />de impertinencia mayúsculo.</p>
+   <p begin="00:14:11.440" end="00:14:13.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Con qué propiedad lo dijo usted.</p>
+   <p begin="00:14:13.400" end="00:14:14.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[RISA]</p>
+   <p begin="00:14:14.480" end="00:14:16.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [SUENA BATERÍA] ♪</p>
+   <p begin="00:14:16.560" end="00:14:18.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: <span>Ella es Dayra Fyah</span>,</p>
+   <p begin="00:14:18.160" end="00:14:19.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>artista urbana, rapera<br />y promotora del Hip hop,</span></p>
+   <p begin="00:14:19.800" end="00:14:21.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>es activista<br />por la igualdad de género</span></p>
+   <p begin="00:14:21.760" end="00:14:23.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>e imparte talleres<br />de defensa personal.</span></p>
+   <p begin="00:14:24.000" end="00:14:25.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Dayra vive en Ecatepec.</span></p>
+   <p begin="00:14:25.720" end="00:14:27.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Una de las zonas más<br />peligrosas para una mujer,</span></p>
+   <p begin="00:14:28.040" end="00:14:30.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>no solo en México,<br />en todo América Latina.</span></p>
+   <p begin="00:14:30.640" end="00:14:34.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Dayra nos acompaña además en<br />el episodio de Pan y Circo, titulado:</span></p>
+   <p begin="00:14:34.440" end="00:14:35.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>"Ni una más."</span></p>
+   <p begin="00:14:38.040" end="00:14:39.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Bueno mi hija ya no es una bebé.</p>
+   <p begin="00:14:39.800" end="00:14:41.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Tiene 16 años ya.</p>
+   <p begin="00:14:41.840" end="00:14:44.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Creo que su vida<br />ha sido menos afectada</p>
+   <p begin="00:14:44.560" end="00:14:46.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">porque mucho ya era de redes,</p>
+   <p begin="00:14:46.560" end="00:14:50.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y de hecho, ella antes de entrar<br />a la prepa, la quería hacer en línea,</p>
+   <p begin="00:14:50.560" end="00:14:52.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">pero le dijimos que no.<br />Que sí fuera...</p>
+   <p begin="00:14:52.640" end="00:14:54.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: <span>¿Quería hacer la prepa en línea, </span>ella?</p>
+   <p begin="00:14:54.280" end="00:14:57.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Sí, ella quería hacer la prepa<br />en línea, antes de todo esto.</p>
+   <p begin="00:14:58.200" end="00:15:02.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ah, antes de que hubiera una pandemia<br />que nos obligara al confinamiento,</p>
+   <p begin="00:15:03.480" end="00:15:07.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">tu hija te pidió hacer la prepa<br />en una suerte de confinamiento,</p>
+   <p begin="00:15:07.480" end="00:15:09.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">por el entorno en el que viven.</p>
+   <p begin="00:15:09.320" end="00:15:13.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Pues, es que esta cuestión<br />de la seguridad, del traslado,</p>
+   <p begin="00:15:13.800" end="00:15:18.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">de incluso de sentirse extraña<br />o ajena, pues al ambiente, ¿no?</p>
+   <p begin="00:15:18.920" end="00:15:21.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">O tener que aguantar cosas,</p>
+   <p begin="00:15:22.160" end="00:15:24.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">como el acoso callejero...</p>
+   <p begin="00:15:24.400" end="00:15:27.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Yo sé que hay muchas cosas<br />allá afuera que no están bien,</p>
+   <p begin="00:15:27.480" end="00:15:29.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que no nos gustan<br />y que es peligroso,</p>
+   <p begin="00:15:30.320" end="00:15:33.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">pero tenemos que estar<br />en ese mundo real, ¿no?</p>
+   <p begin="00:15:33.840" end="00:15:36.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No todo es esto,<br />no todo es la pantalla,</p>
+   <p begin="00:15:36.080" end="00:15:38.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y de repente, ahorita,<br />es todo la pantalla.</p>
+   <p begin="00:15:38.440" end="00:15:40.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [SUENA BATERÍA] ♪</p>
+   <p begin="00:15:40.960" end="00:15:45.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Mira, sin duda ha sido muy<br />desafortunada la coincidencia</p>
+   <p begin="00:15:45.320" end="00:15:46.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en el tiempo de esta crisis.</p>
+   <p begin="00:15:47.280" end="00:15:50.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Eh, pero nosotras<br />desde el feminismo,</p>
+   <p begin="00:15:50.560" end="00:15:55.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">hemos pensado como más bien<br />esta crisis es una muestra</p>
+   <p begin="00:15:55.360" end="00:15:57.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">de lo que hemos viniendo diciendo<br />durante mucho tiempo</p>
+   <p begin="00:15:57.920" end="00:16:00.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">los movimientos de mujeres<br />y feministas del mundo</p>
+   <p begin="00:16:00.800" end="00:16:03.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">para las mujeres las tareas<br />del cuidado han sido</p>
+   <p begin="00:16:03.760" end="00:16:06.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">históricamente<br />una responsabilidad directa.</p>
+   <p begin="00:16:07.160" end="00:16:10.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">En esa distribución sexual<br />del trabajo</p>
+   <p begin="00:16:10.560" end="00:16:13.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">donde los hombres salían<br />a la calle para traer los recursos</p>
+   <p begin="00:16:13.320" end="00:16:15.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y proveer, y las mujeres<br />se quedaban en el hogar</p>
+   <p begin="00:16:15.200" end="00:16:17.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y por eso tenían<br />que cuidar a los hijos, y...</p>
+   <p begin="00:16:17.080" end="00:16:20.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DAPTNHE: <span>Esa estructura cambió,</span><br /><span>porque la economía no alcanzó</span></p>
+   <p begin="00:16:20.320" end="00:16:22.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>para que esa estructura se mantuviera,<br />cambió hace mucho</span></p>
+   <p begin="00:16:23.000" end="00:16:26.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>y no cambió la redistribución<br />de las tareas del cuidado.</span></p>
+   <p begin="00:16:26.240" end="00:16:27.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Nos mandan a todos<br />a estar en casa</span></p>
+   <p begin="00:16:27.760" end="00:16:30.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y para muchas,<br />"casa", es un lugar muy inseguro.</p>
+   <p begin="00:16:30.880" end="00:16:32.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">La violencia familiar está ahí,</p>
+   <p begin="00:16:32.800" end="00:16:35.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">los indices estadísticos<br />nos lo señalan.</p>
+   <p begin="00:16:35.080" end="00:16:37.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y bueno, efectivamente,<br />la violencia creció.</p>
+   <p begin="00:16:38.040" end="00:16:42.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Entre febrero y marzo, se incrementó<br />de manera muy importante</p>
+   <p begin="00:16:42.440" end="00:16:46.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">el número de ataques, de agresiones<br />y de violencia intrafamiliar,</p>
+   <p begin="00:16:46.440" end="00:16:48.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">sobre todo violencia de pareja.</p>
+   <p begin="00:16:48.560" end="00:16:52.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y sale el Presidente de la República<br />a negar el incremento de la violencia,</p>
+   <p begin="00:16:52.400" end="00:16:54.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">señalando que tenemos un nivel...</p>
+   <p begin="00:16:55.080" end="00:16:58.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">de... no recuerdo la palabra<br />que utilizó,</p>
+   <p begin="00:16:58.240" end="00:16:59.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">pero así como que somos<br />"buena ondita",</p>
+   <p begin="00:17:00.120" end="00:17:02.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y que la familia mexicana<br />se quiere mucho.</p>
+   <p begin="00:17:02.640" end="00:17:06.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y eso, más allá de que sea un deseo<br />compartido y ojalá que fuera realidad,</p>
+   <p begin="00:17:06.760" end="00:17:08.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">es negar lo que está pasando</p>
+   <p begin="00:17:08.960" end="00:17:11.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y es contribuir a la impunidad<br />de que eso siga así.</p>
+   <p begin="00:17:12.800" end="00:17:16.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">PERIODISTA:<br />¿Cómo han evaluado la violencia<br />en contra de las mujeres</p>
+   <p begin="00:17:16.640" end="00:17:19.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">ahora que están en el confinamiento<br />en sus hogares?</p>
+   <p begin="00:17:19.800" end="00:17:23.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Hace incluso unas semanas,<br />hablaban, eh, se informaba</p>
+   <p begin="00:17:23.200" end="00:17:25.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">PERIODISTA:<br />que había incrementado<br />un 100%.</p>
+   <p begin="00:17:25.640" end="00:17:28.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">ANDRÉS MANUEL:<br />En el caso de la violencia...</p>
+   <p begin="00:17:28.440" end="00:17:30.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en general y la violencia<br />contra las mujeres,</p>
+   <p begin="00:17:31.640" end="00:17:34.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">no hemos nosotros advertido</p>
+   <p begin="00:17:34.800" end="00:17:36.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">un incremento.</p>
+   <p begin="00:17:37.520" end="00:17:40.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">En México, tenemos una cultura...</p>
+   <p begin="00:17:41.640" end="00:17:44.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">de mucha fraternidad<br />en la familia.</p>
+   <p begin="00:17:44.560" end="00:17:46.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">PERIODISTA: Pero también<br />machista, o sea,</p>
+   <p begin="00:17:46.480" end="00:17:49.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- sí hay mujeres que han tratado de...<br />- Sí, sí, sí existe machismo,</p>
+   <p begin="00:17:50.080" end="00:17:55.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">pero también existe<br />mucha fraternidad familiar.</p>
+   <p begin="00:17:55.480" end="00:17:58.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [SUENA BATERÍA] ♪</p>
+   <p begin="00:17:58.280" end="00:18:00.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: Chin, pues qué, les mando<br />otra cosa de comer, ¿no?</p>
+   <p begin="00:18:00.560" end="00:18:02.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Porque todavía me falta<br />programa, y...</p>
+   <p begin="00:18:02.440" end="00:18:03.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">EMILIANO: <span>Yo ya estoy lleno, ¿eh?</span><br />JULIA: <span>Mira,</span></p>
+   <p begin="00:18:03.800" end="00:18:06.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">pero mira la cantidad de pan<br />que todavía me queda.</p>
+   <p begin="00:18:06.880" end="00:18:09.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No, a mí... a mí me gustaría<br />que me quedara tanto pan como a Julia,</p>
+   <p begin="00:18:09.560" end="00:18:12.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">pero la mitad de mi pan<br />se lo robó uno de los perros, caray,</p>
+   <p begin="00:18:12.560" end="00:18:14.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- mientras organizaba la mesa.<br />- ¡No!</p>
+   <p begin="00:18:14.440" end="00:18:16.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y tú guardaste<br />la compostura a cuadro.</p>
+   <p begin="00:18:16.640" end="00:18:20.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No, no, no, fue antes<br />de que empezáramos.</p>
+   <p begin="00:18:20.160" end="00:18:22.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Yo puse mi mesa muy contento,</p>
+   <p begin="00:18:22.560" end="00:18:25.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">fui a traer algo más a la cocina<br />que me faltaba el vino y el agua, creo,</p>
+   <p begin="00:18:25.680" end="00:18:28.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y me encontré a uno de los perros<br />zampándose la mitad del pan.</p>
+   <p begin="00:18:28.640" end="00:18:30.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[RISA]</p>
+   <p begin="00:18:30.200" end="00:18:33.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Diego debo decir que la lasaña<br />está estupenda, ¿eh?</p>
+   <p begin="00:18:33.800" end="00:18:35.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- Verdaderamente.<br />- Sí, está muy rica.</p>
+   <p begin="00:18:35.560" end="00:18:36.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- La sopa, también.<br />- Muchas gracias.</p>
+   <p begin="00:18:37.080" end="00:18:42.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [MÚSICA] ♪</p>
+   <p begin="00:18:44.160" end="00:18:45.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Se recomienda...</p>
+   <p begin="00:18:46.640" end="00:18:48.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">suspender o posponer...</p>
+   <p begin="00:18:49.560" end="00:18:52.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">todas las actividades no esenciales...</p>
+   <p begin="00:18:53.960" end="00:18:55.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que involucran...</p>
+   <p begin="00:18:55.800" end="00:18:58.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">congregación de cualquier número<br />de personas,</p>
+   <p begin="00:18:59.240" end="00:19:01.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">o tránsito de personas</p>
+   <p begin="00:19:02.080" end="00:19:06.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en organizaciones de los sectores<br />público, social y privado.</p>
+   <p begin="00:19:08.720" end="00:19:11.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¿Cuándo empieza esto?<br />Ya.</p>
+   <p begin="00:19:12.400" end="00:19:14.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [MÚSICA] ♪</p>
+   <p begin="00:19:15.000" end="00:19:17.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Los mexicanos por...</p>
+   <p begin="00:19:19.000" end="00:19:20.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">nuestras culturas...</p>
+   <p begin="00:19:21.560" end="00:19:23.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">somos muy resistentes.</p>
+   <p begin="00:19:24.440" end="00:19:25.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No apanicarnos.</p>
+   <p begin="00:19:26.000" end="00:19:27.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Vamos hasta adelante y...</p>
+   <p begin="00:19:28.080" end="00:19:30.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">no dejen de salir.</p>
+   <p begin="00:19:31.160" end="00:19:34.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Todavía estamos en la primera fase,</p>
+   <p begin="00:19:34.720" end="00:19:37.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">ya nosotros...<br />Yo les voy a decir</p>
+   <p begin="00:19:37.440" end="00:19:38.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">cuando no salgan.</p>
+   <p begin="00:19:39.400" end="00:19:40.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [MÚSICA] ♪</p>
+   <p begin="00:19:40.560" end="00:19:44.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Hay un ejemplo de las implicaciones<br />que tiene el discurso del presidente,</p>
+   <p begin="00:19:45.080" end="00:19:47.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">siendo contrario al discurso<br />de la...</p>
+   <p begin="00:19:48.000" end="00:19:50.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">de la autoridad que hemos<br />puesto en una persona</p>
+   <p begin="00:19:50.720" end="00:19:52.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que es López-Gatell,</p>
+   <p begin="00:19:52.480" end="00:19:54.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">eh, que es muy evidente, ¿no?</p>
+   <p begin="00:19:54.080" end="00:19:57.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Es decir, uno de los municipios<br />con mayor contagio</p>
+   <p begin="00:19:57.280" end="00:19:58.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">es Macuspana,</p>
+   <p begin="00:19:58.960" end="00:20:01.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que es el municipio de donde es<br />Andrés Manuel López Obrador,</p>
+   <p begin="00:20:01.440" end="00:20:03.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y esto que podría parecer<br />una coincidencia</p>
+   <p begin="00:20:03.720" end="00:20:05.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">a mí no me lo parece<br />de ningún modo.</p>
+   <p begin="00:20:05.080" end="00:20:06.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Yo creo que debe de haber<br />pocos lugares en el país</p>
+   <p begin="00:20:07.080" end="00:20:09.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">donde escuchan tanto<br />lo que dice Andrés Manuel</p>
+   <p begin="00:20:09.160" end="00:20:10.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">como en Macuspana, ¿no?</p>
+   <p begin="00:20:10.560" end="00:20:13.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y que ahí la gente haya seguido<br />con tanta laxitud</p>
+   <p begin="00:20:13.960" end="00:20:15.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">la jornada de sana distancia</p>
+   <p begin="00:20:15.560" end="00:20:19.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y que haya tantos este... contagios<br />a comparación de otros municipios,</p>
+   <p begin="00:20:19.320" end="00:20:21.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">pues es evidente o ejemplifica</p>
+   <p begin="00:20:21.440" end="00:20:24.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">eh, la incidencia que tiene,<br />lo que dice el presidente</p>
+   <p begin="00:20:24.080" end="00:20:25.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y de ahí que sea tan grave</p>
+   <p begin="00:20:25.760" end="00:20:27.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">el doble discurso, ¿no?</p>
+   <p begin="00:20:27.800" end="00:20:30.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">En un país como este<br />que es tan difícil saber,</p>
+   <p begin="00:20:30.680" end="00:20:32.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">quién puede guardar el confinamiento</p>
+   <p begin="00:20:33.080" end="00:20:35.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y quién no<br />por condiciones económicas,</p>
+   <p begin="00:20:35.400" end="00:20:38.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">resulta que además eso está<br />mezclado con quién lo quiere guardar</p>
+   <p begin="00:20:38.320" end="00:20:39.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y quién no, porque quién le cree<br />al presidente</p>
+   <p begin="00:20:40.040" end="00:20:40.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y quién le cree a López-Gatell.</p>
+   <p begin="00:20:41.040" end="00:20:44.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Entonces, eso cómo<br />lo podemos diferenciar</p>
+   <p begin="00:20:44.480" end="00:20:46.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">o distinguir<br />es muy complicado, ¿no?</p>
+   <p begin="00:20:46.400" end="00:20:47.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y es muy costoso para el país.</p>
+   <p begin="00:20:48.080" end="00:20:51.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Sí es muy costoso,<br />porque el mensaje</p>
+   <p begin="00:20:51.800" end="00:20:55.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">es exactamente lo opuesto<br />al que tiene que recibir la población.</p>
+   <p begin="00:20:55.280" end="00:20:57.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Realmente es el peor mensaje<br />que se puede dar</p>
+   <p begin="00:20:57.680" end="00:21:00.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">porque la atención a una epidemia</p>
+   <p begin="00:21:00.920" end="00:21:04.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">uno tiene que establecer<br />muy claramente,</p>
+   <p begin="00:21:04.520" end="00:21:07.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que la comunicación<br />entre la autoridad,</p>
+   <p begin="00:21:07.560" end="00:21:09.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">la autoridad de salud,<br />la autoridad política</p>
+   <p begin="00:21:10.000" end="00:21:13.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y la población, tiene que ser<br />lo más efectiva posible</p>
+   <p begin="00:21:14.000" end="00:21:15.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y tiene que ser mesurada,</p>
+   <p begin="00:21:15.880" end="00:21:18.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y tiene que ser clara,</p>
+   <p begin="00:21:18.560" end="00:21:20.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">tiene que ser congruente,</p>
+   <p begin="00:21:20.400" end="00:21:24.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">esta es una gestión de riesgos<br />y una gestión de número de enfermos.</p>
+   <p begin="00:21:24.960" end="00:21:26.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Lo que no ocurra hoy,</p>
+   <p begin="00:21:26.640" end="00:21:29.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en términos de enfermedades,<br />va a ocurrir mañana.</p>
+   <p begin="00:21:29.680" end="00:21:33.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Porque es un virus nuevo,<br />porque es un virus muy contagioso,</p>
+   <p begin="00:21:33.960" end="00:21:36.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y porque la población</p>
+   <p begin="00:21:36.560" end="00:21:39.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">somos virgen al virus,<br />no tenemos ninguna inmunidad.</p>
+   <p begin="00:21:39.560" end="00:21:43.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Entonces, el escenario es que para<br />que volvamos a una normalidad,</p>
+   <p begin="00:21:43.800" end="00:21:45.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">tendrá que pasar mucho tiempo.</p>
+   <p begin="00:21:45.800" end="00:21:48.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">SAMUEL: <span>Porque tendremos</span><br /><span>que tener una inmunidad</span></p>
+   <p begin="00:21:49.200" end="00:21:51.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>global en nuestra especie</span></p>
+   <p begin="00:21:51.800" end="00:21:54.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>humana, del 80 % aproximadamente.</span></p>
+   <p begin="00:21:55.080" end="00:21:57.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ocho de cada diez, tendremos<br />que habernos infectado</p>
+   <p begin="00:21:58.120" end="00:22:01.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y los que no se hayan infectado<br />las semanas previas</p>
+   <p begin="00:22:01.400" end="00:22:03.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">se van a tener que infectar mañana.</p>
+   <p begin="00:22:03.440" end="00:22:05.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Esto es como una deuda que adquieres,</p>
+   <p begin="00:22:05.360" end="00:22:06.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">la vas a tener que pagar,</p>
+   <p begin="00:22:07.480" end="00:22:09.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">nos la impone el virus,</p>
+   <p begin="00:22:09.280" end="00:22:12.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y pagas de contado,<br />se ha especulado...</p>
+   <p begin="00:22:12.120" end="00:22:14.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Inglaterra trató de hacerlo así<br />en un principio,</p>
+   <p begin="00:22:14.320" end="00:22:16.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">pero los muertos pueden ser muchos</p>
+   <p begin="00:22:16.760" end="00:22:19.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">o pagas a plazos, pero siempre<br />vas a terminar pagando todo.</p>
+   <p begin="00:22:20.400" end="00:22:23.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">A menos que pueda surgir<br />una vacuna que no está cercana,</p>
+   <p begin="00:22:23.360" end="00:22:24.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">no antes de dos años.</p>
+   <p begin="00:22:25.080" end="00:22:26.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Entonces, el escenario es complicado,</p>
+   <p begin="00:22:27.120" end="00:22:30.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">no hay ningún final feliz<br />en esta historia, desafortunadamente.</p>
+   <p begin="00:22:30.800" end="00:22:34.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Va a haber muchos enfermos,<br />muchos muertos,</p>
+   <p begin="00:22:34.200" end="00:22:37.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">muchas pérdidas con dos<br />espectros en el horizonte,</p>
+   <p begin="00:22:37.600" end="00:22:40.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">la enfermedad y la pobreza.</p>
+   <p begin="00:22:40.160" end="00:22:44.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [SUENA BATERÍA] ♪</p>
+   <p begin="00:22:44.680" end="00:22:46.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: <span>Teníamos que hablar</span><br /><span>con Hugo López-Gatell</span>.</p>
+   <p begin="00:22:46.920" end="00:22:48.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Él es médico epidemiólogo,</span></p>
+   <p begin="00:22:48.760" end="00:22:51.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>subsecretario de prevención<br />y promoción de la salud,</span></p>
+   <p begin="00:22:51.440" end="00:22:53.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>responsable de comunicar<br />a la población mexicana</span></p>
+   <p begin="00:22:54.040" end="00:22:57.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>la estrategia en la emergencia<br />sanitaria de COVID-19.</span></p>
+   <p begin="00:22:57.200" end="00:22:58.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [MÚSICA] ♪</p>
+   <p begin="00:22:58.640" end="00:23:02.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Hay dos bienes públicos<br />imprescindibles a cuidar.<br />♪ [SUENA BATERÍA] ♪</p>
+   <p begin="00:23:03.000" end="00:23:04.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">La salud y la vida,</p>
+   <p begin="00:23:05.760" end="00:23:08.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que indiscutiblemente<br />son los prioritarios,</p>
+   <p begin="00:23:08.880" end="00:23:12.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">pero también el bienestar social<br />y económico,</p>
+   <p begin="00:23:12.520" end="00:23:15.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que a su vez, regresa<br />a la salud y a la vida.</p>
+   <p begin="00:23:15.680" end="00:23:17.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- Claro.<br />- Tuve la...</p>
+   <p begin="00:23:17.080" end="00:23:18.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">El privilegio y la oportunidad</p>
+   <p begin="00:23:18.960" end="00:23:21.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">de conversar<br />con el presidente a solas,</p>
+   <p begin="00:23:21.520" end="00:23:23.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en varias ocasiones</p>
+   <p begin="00:23:23.960" end="00:23:26.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y él, yo me daba cuenta,</p>
+   <p begin="00:23:27.200" end="00:23:31.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que tenía un planteamiento<br />de escucha</p>
+   <p begin="00:23:31.720" end="00:23:33.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">muy activo,</p>
+   <p begin="00:23:33.560" end="00:23:35.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">pero también de alerta.</p>
+   <p begin="00:23:36.640" end="00:23:39.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y esto no es fácilmente<br />entendible por el público,</p>
+   <p begin="00:23:39.280" end="00:23:43.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">porque a veces él pareciera<br />estar diciendo, “Yo jalo para acá”,</p>
+   <p begin="00:23:43.400" end="00:23:46.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">cuando a la vez estoy diciendo,<br />“Mi respeto, apoyo,</p>
+   <p begin="00:23:46.920" end="00:23:50.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y los científicos de salud<br />están al frente.”</p>
+   <p begin="00:23:50.080" end="00:23:51.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- Mjm.<br />- Pero aquí viene la clave,</p>
+   <p begin="00:23:52.080" end="00:23:55.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">él tiene siempre<br />este énfasis de lo social,</p>
+   <p begin="00:23:55.920" end="00:23:57.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">el bien colectivo, el bien público</p>
+   <p begin="00:23:58.040" end="00:24:01.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y específicamente<br />el bien de las personas pobres,</p>
+   <p begin="00:24:01.320" end="00:24:04.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">las personas más desfavorecidas.<br />Uno de los elementos,</p>
+   <p begin="00:24:04.120" end="00:24:05.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">esto tampoco<br />es un secreto de Estado,</p>
+   <p begin="00:24:05.680" end="00:24:07.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">lo puedo decir,<br />se dijo públicamente,</p>
+   <p begin="00:24:07.720" end="00:24:08.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">de gran preocupación...</p>
+   <p begin="00:24:08.880" end="00:24:11.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No, es que díganos un secreto de Estado.<br />[GATELL RÍE]</p>
+   <p begin="00:24:11.360" end="00:24:13.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- ¿Qué pasó?<br />- Todavía no se puede.</p>
+   <p begin="00:24:13.840" end="00:24:15.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Cuando tenga 80 años.<br />[DIEGO RÍE]</p>
+   <p begin="00:24:16.160" end="00:24:19.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No, no, no, no hay en esencia,<br />todo, todo se dice.</p>
+   <p begin="00:24:20.440" end="00:24:23.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Pero, una de las cosas que él<br />me alertaba es,</p>
+   <p begin="00:24:23.640" end="00:24:27.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">ponte a pensar lo que va a pasar<br />si estas personas entran</p>
+   <p begin="00:24:27.440" end="00:24:29.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en una catástrofe financiera</p>
+   <p begin="00:24:30.240" end="00:24:33.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en un país que ha estado<br />asolado por la inseguridad pública,</p>
+   <p begin="00:24:33.760" end="00:24:37.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">asociada con la criminalidad,<br />¿qué va a pasar?</p>
+   <p begin="00:24:37.160" end="00:24:41.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- Que vamos a dejar a extensas...<br />- Sí.</p>
+   <p begin="00:24:41.440" end="00:24:43.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- proporciones...<br />- En desamparo.</p>
+   <p begin="00:24:43.160" end="00:24:45.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en desamparo y van a ser víctimas</p>
+   <p begin="00:24:45.880" end="00:24:47.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y van a seguir alimentando<br />la violencia.</p>
+   <p begin="00:24:48.200" end="00:24:51.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ahorita es más cuidado, ¿no?<br />Como todo el tiempo estás volteando,</p>
+   <p begin="00:24:51.360" end="00:24:55.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">porque sientes más inseguridad,<br />porque sabes que no hay negocio,</p>
+   <p begin="00:24:55.840" end="00:24:57.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">o sea como que alguien<br />que podía vivir de cualquier cosa</p>
+   <p begin="00:24:57.880" end="00:25:00.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">estando en el barrio,<br />si no puede abrir su negocio,</p>
+   <p begin="00:25:00.480" end="00:25:01.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¿qué va a hacer?</p>
+   <p begin="00:25:02.640" end="00:25:05.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y yo pienso que de las primeras<br />opciones, pues, en el barrio</p>
+   <p begin="00:25:05.360" end="00:25:06.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">sí es delinquir.</p>
+   <p begin="00:25:07.080" end="00:25:10.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¿La presencia de la policía<br />y el Estado?</p>
+   <p begin="00:25:11.080" end="00:25:13.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[RISA]</p>
+   <p begin="00:25:14.040" end="00:25:17.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Vamos, o sea, es como hablarles<br />para qué.</p>
+   <p begin="00:25:17.760" end="00:25:20.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">También muchas veces<br />son ellos mismos, ¿no?</p>
+   <p begin="00:25:20.280" end="00:25:23.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Los que intimidan o llegan<br />a amedrentar en vez de ayudar.</p>
+   <p begin="00:25:23.640" end="00:25:27.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Entonces, también muchas veces,<br />como la autoridad o la policía,</p>
+   <p begin="00:25:27.760" end="00:25:30.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">es la última opción, ¿no?</p>
+   <p begin="00:25:30.280" end="00:25:33.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [SUENA BATERÍA] ♪</p>
+   <p begin="00:25:33.320" end="00:25:34.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- Ahí está, ¿no?<br />- Ahí está.</p>
+   <p begin="00:25:34.760" end="00:25:36.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ya estamos grabando.</p>
+   <p begin="00:25:36.680" end="00:25:38.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ya tengo mi tapabocas</p>
+   <p begin="00:25:38.080" end="00:25:41.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y ahora también tengo<br />que pensar en el pelo,</p>
+   <p begin="00:25:41.720" end="00:25:44.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">porque a esta edad<br />se me está cayendo el pelo.</p>
+   <p begin="00:25:44.960" end="00:25:46.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[RISAS]</p>
+   <p begin="00:25:47.000" end="00:25:49.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y no quiero que les lleguen<br />pelos en la lasaña y en la sopa,</p>
+   <p begin="00:25:49.880" end="00:25:50.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[RISA]</p>
+   <p begin="00:25:50.840" end="00:25:53.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Yo me hago un chongo<br />y nada más.</p>
+   <p begin="00:25:53.880" end="00:25:56.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Como que nada más<br />me lo echo para atrás y listo.</p>
+   <p begin="00:25:56.400" end="00:25:59.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [MÚSICA] ♪</p>
+   <p begin="00:26:00.600" end="00:26:02.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: <span>Ella es Elena Reygada</span>s,</p>
+   <p begin="00:26:02.280" end="00:26:04.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>gran chef mexicana.<br />Su restaurante Rosetta</span></p>
+   <p begin="00:26:04.840" end="00:26:06.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>es ya un referente<br />en la Ciudad de México.</span></p>
+   <p begin="00:26:07.240" end="00:26:09.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Elena además de regalarnos<br />el pan para esta comida,</span></p>
+   <p begin="00:26:10.040" end="00:26:13.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>cocinó en Xochimilco para<br />el episodio sobre clemencia climática,</span></p>
+   <p begin="00:26:13.280" end="00:26:14.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>de Pan y Circo.</span></p>
+   <p begin="00:26:14.800" end="00:26:15.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [SUENA BATERÍA] ♪</p>
+   <p begin="00:26:16.040" end="00:26:19.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Sí me dan muchas,<br />muchas pesadillas el pensar...</p>
+   <p begin="00:26:20.200" end="00:26:22.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en que los restaurantes</p>
+   <p begin="00:26:22.200" end="00:26:25.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">tengan tanto distanciamiento<br />entre una mesa y otra,</p>
+   <p begin="00:26:25.920" end="00:26:28.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en que tengamos miedo<br />el uno del otro,</p>
+   <p begin="00:26:28.920" end="00:26:32.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">porque para mí, ante todo,<br />los restaurantes es ir convivir</p>
+   <p begin="00:26:32.440" end="00:26:35.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">a través de la comida.<br />Nosotros como cocineros,</p>
+   <p begin="00:26:36.400" end="00:26:39.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">tenemos que ser mucho<br />más responsables</p>
+   <p begin="00:26:39.280" end="00:26:41.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">aún de lo que hemos sido, ¿no?</p>
+   <p begin="00:26:41.160" end="00:26:45.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Realmente de... no solo de a quién<br />le compramos nuestros insumos,</p>
+   <p begin="00:26:45.280" end="00:26:47.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">sino cómo trabajamos<br />con estos insumos.</p>
+   <p begin="00:26:47.720" end="00:26:51.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">ELENA: <span>Y pu's no dar por hecho pues</span><br /><span>que vamos a tener pescado siempr</span>e,</p>
+   <p begin="00:26:51.880" end="00:26:54.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">o que v<span>amos a tener</span><br /><span>ciertos productos si</span>empre.</p>
+   <p begin="00:26:54.960" end="00:26:57.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">La semana pasada hubo<br />escasez de pescado.</p>
+   <p begin="00:26:57.240" end="00:26:58.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- Mjm.<br />- Este...</p>
+   <p begin="00:26:59.280" end="00:27:04.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Pues fue... fue bueno en la medida<br />de cómo imaginar otros menús</p>
+   <p begin="00:27:05.120" end="00:27:08.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y otras formas de cocinar<br />que no necesariamente tengan pescado,</p>
+   <p begin="00:27:08.360" end="00:27:11.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">aun siendo el pescado una<br />de las cosas que más la gente pide.</p>
+   <p begin="00:27:12.040" end="00:27:13.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Qué tipo de carta queremos tener,</p>
+   <p begin="00:27:14.080" end="00:27:16.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">qué tipo de alimentos<br />queremos ofrecer</p>
+   <p begin="00:27:16.640" end="00:27:20.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y este momento de confinamiento<br />nos ha ayudado a...</p>
+   <p begin="00:27:20.840" end="00:27:22.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">a entender eso, ¿no?</p>
+   <p begin="00:27:22.520" end="00:27:26.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Que a veces algunos platos<br />quizá eran un poco caprichosos.</p>
+   <p begin="00:27:26.560" end="00:27:27.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">ELENA: Ahorita ante todo,</p>
+   <p begin="00:27:28.000" end="00:27:30.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">lo que todos queremos<br />de alguna manera, lo más básico.</p>
+   <p begin="00:27:30.680" end="00:27:32.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ahora, ¿cómo le vamos a hacer</p>
+   <p begin="00:27:32.200" end="00:27:34.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">después del confinamiento<br />con el tiempo?</p>
+   <p begin="00:27:35.400" end="00:27:37.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Tú vas a regresar a hacer<br />lo que hacías,</p>
+   <p begin="00:27:37.960" end="00:27:40.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¿podrás seguir dándote<br />el tiempo de cocinar</p>
+   <p begin="00:27:40.320" end="00:27:42.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">como ahora lo has estado haciendo?</p>
+   <p begin="00:27:42.080" end="00:27:44.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- Yo creo que sí.<br />- Ojalá que sí.</p>
+   <p begin="00:27:44.200" end="00:27:48.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Desde mi privilegio, obviamente,<br />porque es importante decirlo siempre,</p>
+   <p begin="00:27:48.440" end="00:27:51.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">pero sí hay cosas desde este<br />confinamiento que ya no quiero cambiar.</p>
+   <p begin="00:27:51.840" end="00:27:53.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [MÚSICA] ♪</p>
+   <p begin="00:27:53.400" end="00:27:55.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Si queremos entender, eh...</p>
+   <p begin="00:27:56.120" end="00:27:58.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">esta pandemia y cuando queremos...</p>
+   <p begin="00:27:58.680" end="00:28:02.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y cuando deseamos que no se estén<br />repitiendo estas pandemias</p>
+   <p begin="00:28:02.320" end="00:28:05.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">de la misma forma,<br />con esta profunda intensidad</p>
+   <p begin="00:28:05.720" end="00:28:08.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y a esta misma velocidad<br />a lo que nos llegó,</p>
+   <p begin="00:28:08.560" end="00:28:11.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">tenemos que entender<br />cuáles son las causas de fondo</p>
+   <p begin="00:28:11.760" end="00:28:15.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">de esta pandemia y hay<br />que verlas en el medio ambiente.</p>
+   <p begin="00:28:15.280" end="00:28:19.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Hay que verlas en esa relación<br />de la sociedad con la naturaleza</p>
+   <p begin="00:28:19.560" end="00:28:23.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en la que hemos destruido<br />profundamente el medio ambiente.</p>
+   <p begin="00:28:23.240" end="00:28:27.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Hay que tratar de dar también<br />una explicación científica a esto</p>
+   <p begin="00:28:27.920" end="00:28:31.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y eso está en las interacciones<br />que existen</p>
+   <p begin="00:28:31.400" end="00:28:34.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en esa otra casa, hemos hablado<br />de nuestras casas,</p>
+   <p begin="00:28:34.960" end="00:28:36.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">nos han dicho quédate en casa,</p>
+   <p begin="00:28:37.200" end="00:28:40.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">pero yo también diría<br />que la vida silvestre</p>
+   <p begin="00:28:40.120" end="00:28:42.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">se quede en casa, por favor.</p>
+   <p begin="00:28:42.240" end="00:28:46.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Esto nos tiene que hacer reflexionar<br />que no podemos destruir los hábitats</p>
+   <p begin="00:28:46.840" end="00:28:48.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">como los estamos destruyendo,</p>
+   <p begin="00:28:48.720" end="00:28:52.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que las áreas naturales protegidas<br />son la mejor forma de protegerlas,</p>
+   <p begin="00:28:52.680" end="00:28:56.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que no podemos estar utilizando<br />la vida silvestre de esa manera,</p>
+   <p begin="00:28:56.800" end="00:29:01.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que tenemos que prohibir todo<br />el tráfico de la vida silvestre,</p>
+   <p begin="00:29:01.120" end="00:29:05.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">no solamente en nuestros países<br />sino internacional.</p>
+   <p begin="00:29:05.360" end="00:29:07.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Me preocupa enormemente<br />que nuestro gobierno</p>
+   <p begin="00:29:07.880" end="00:29:09.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">no esté hablando de estas cosas.</p>
+   <p begin="00:29:10.080" end="00:29:12.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Es muy importe que yo...</p>
+   <p begin="00:29:12.680" end="00:29:17.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">eh, vaya a dar estos<br />banderazos para iniciar</p>
+   <p begin="00:29:18.040" end="00:29:21.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">la construcción del Tren Maya<br />porque son empleos,</p>
+   <p begin="00:29:22.000" end="00:29:23.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">muchos empleos.</p>
+   <p begin="00:29:23.600" end="00:29:25.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">La Refinería de Dos Bocas</p>
+   <p begin="00:29:25.600" end="00:29:27.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y las otras refinerías,</p>
+   <p begin="00:29:27.760" end="00:29:29.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">72,000 empleos.</p>
+   <p begin="00:29:29.200" end="00:29:31.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Se van a crear 80,000 empleos,</p>
+   <p begin="00:29:31.880" end="00:29:34.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en estos cinco tramos.</p>
+   <p begin="00:29:34.560" end="00:29:39.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">O sea, pereciera que el rescate<br />de este momento, es este...</p>
+   <p begin="00:29:39.560" end="00:29:41.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Dos Bocas, es un Tren Maya,</p>
+   <p begin="00:29:41.440" end="00:29:43.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">porque van a generarse<br />tantos empleos.</p>
+   <p begin="00:29:43.760" end="00:29:45.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y eso es totalmente equivocado.</p>
+   <p begin="00:29:45.520" end="00:29:48.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Esos grandes proyectos<br />no pueden seguir así,</p>
+   <p begin="00:29:48.240" end="00:29:53.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">JULIA: ese recurso tiene que estar<br />volcado hacia el desarrollo rural</p>
+   <p begin="00:29:53.240" end="00:29:56.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que existen una cantidad<br />enorme de proyectos</p>
+   <p begin="00:29:56.200" end="00:29:58.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que están demostrando<br />que se puede dividir mejor,</p>
+   <p begin="00:29:59.080" end="00:30:02.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que es mucho más sustentable,<br />que es de largo plazo,</p>
+   <p begin="00:30:02.440" end="00:30:05.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que la calidad de vida<br />puede ser infinitamente mejor,</p>
+   <p begin="00:30:05.440" end="00:30:07.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">pero no forma parte de la política.</p>
+   <p begin="00:30:13.440" end="00:30:16.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [SUENA BATERÍA] ♪</p>
+   <p begin="00:30:19.080" end="00:30:22.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [SUENA BATERÍA] ♪</p>
+   <p begin="00:30:23.120" end="00:30:25.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DAPTNHE: Hay una serie de necesidades<br />de salud sexual</p>
+   <p begin="00:30:25.680" end="00:30:27.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y reproductiva<br />que no se están cubriendo.</p>
+   <p begin="00:30:28.040" end="00:30:31.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Tenemos que hay un registro,<br />por ejemplo, de que si en enero</p>
+   <p begin="00:30:31.520" end="00:30:37.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">se habló, se denunciaron<br />535 acosos u hostigamiento</p>
+   <p begin="00:30:37.480" end="00:30:40.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en marzo fueron 1,017,<br />es decir, se triplicaron.</p>
+   <p begin="00:30:40.400" end="00:30:42.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y sobre la violación,</p>
+   <p begin="00:30:42.800" end="00:30:46.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">de 269 que hubo denuncias en enero,</p>
+   <p begin="00:30:46.200" end="00:30:49.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">323 en febrero y 395 en marzo,</p>
+   <p begin="00:30:49.800" end="00:30:52.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">eso según el secretariado,<br />o sea, ahí se ve el incremento</p>
+   <p begin="00:30:52.920" end="00:30:55.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DAPTNHE: <span>y además</span><br /><span>la Organización Mundial de la Salud</span></p>
+   <p begin="00:30:55.560" end="00:30:57.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>está hablando de un número<br />muy alto de embarazos no deseados</span></p>
+   <p begin="00:30:58.040" end="00:31:01.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en el marco del confinamiento<br />y fíjense, en la Ciudad de México,</p>
+   <p begin="00:31:01.840" end="00:31:03.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">celebramos ya en el confinamiento</p>
+   <p begin="00:31:03.680" end="00:31:06.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que cumplimos 13 años<br />de haber despenalizado</p>
+   <p begin="00:31:06.120" end="00:31:08.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en esta, formatos de plazos<br />en la Ciudad de México.</p>
+   <p begin="00:31:08.880" end="00:31:11.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Hace 13 años, el 24 de abril</p>
+   <p begin="00:31:11.560" end="00:31:13.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">se aprobó<br />y entró en vigor esta ley.</p>
+   <p begin="00:31:14.000" end="00:31:16.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">En la Ciudad de México<br />que podía ser una opción</p>
+   <p begin="00:31:16.920" end="00:31:18.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">para muchas mujeres<br />en el resto del país,</p>
+   <p begin="00:31:18.960" end="00:31:21.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">mejor venían hacía acá<br />y aquí hacían la interrupción,</p>
+   <p begin="00:31:22.040" end="00:31:23.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DAPTNHE: <span>hoy día esto se complicó,</span></p>
+   <p begin="00:31:23.720" end="00:31:25.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>porque el confinamiento<br />además implica</span></p>
+   <p begin="00:31:25.720" end="00:31:30.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>imposibilidad de viaje o riesgos<br />o miedo de subirte a un autobús o más</span></p>
+   <p begin="00:31:30.360" end="00:31:33.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y los costos para quienes<br />acompañan a estos casos</p>
+   <p begin="00:31:34.040" end="00:31:36.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">evidentemente se incrementan</p>
+   <p begin="00:31:36.240" end="00:31:39.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y hacen que sea más difícil<br />poder acompañar a las mujeres,</p>
+   <p begin="00:31:39.480" end="00:31:42.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">es decir, todo el escenario<br />de confinamiento</p>
+   <p begin="00:31:42.440" end="00:31:45.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">ha complicado el acceso<br />a la interrupción legal del embarazo</p>
+   <p begin="00:31:45.640" end="00:31:48.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">para las mujeres, si pensábamos<br />que su opción legal</p>
+   <p begin="00:31:48.360" end="00:31:50.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">era la Ciudad de México<br />para las que no están acá.</p>
+   <p begin="00:31:50.400" end="00:31:52.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [SUENA BATERÍA] ♪</p>
+   <p begin="00:31:52.600" end="00:31:55.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: <span>Él es Carlos Martínez,</span><br /><span>gran reportero y periodist</span>a,</p>
+   <p begin="00:31:55.560" end="00:31:58.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>uno de los fundadores del diario<br />digital salvadoreño El Faro.</span></p>
+   <p begin="00:31:58.880" end="00:32:00.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Referente en la cobertura migratoria</span></p>
+   <p begin="00:32:00.760" end="00:32:02.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>de violencia y de política<br />en Centro América.</span></p>
+   <p begin="00:32:03.240" end="00:32:05.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Carlos también se sentó<br />a la mesa de Pan y Circo,</span></p>
+   <p begin="00:32:05.920" end="00:32:07.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>vino a discutir migración con nosotros</span></p>
+   <p begin="00:32:07.920" end="00:32:10.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>en el episodio que hicimos<br />en el Valle de Guadalupe.</span></p>
+   <p begin="00:32:10.920" end="00:32:13.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">La manera en la que están<br />distribuidas nuestras economías</p>
+   <p begin="00:32:14.000" end="00:32:16.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y como nos hemos organizado<br />como sociedad...</p>
+   <p begin="00:32:17.640" end="00:32:20.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">es una forma en la que no cabemos<br />todos, eso es evidente, pues.</p>
+   <p begin="00:32:20.680" end="00:32:23.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Nuestros países están hechos<br />para que no... ahí cabemos todos,</p>
+   <p begin="00:32:23.440" end="00:32:26.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en México no caben todos,<br />en el Salvador no caben todos.</p>
+   <p begin="00:32:27.400" end="00:32:29.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">CARLOS:<br /><span>Lo que pasa es que por primera vez</span></p>
+   <p begin="00:32:29.560" end="00:32:31.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>el poder económico,</span></p>
+   <p begin="00:32:31.760" end="00:32:36.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>se ve aplastado por algo que está<br />más allá de su control, pienso yo.</span></p>
+   <p begin="00:32:36.960" end="00:32:38.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Eh, harán sus esfuerzos,</span></p>
+   <p begin="00:32:39.040" end="00:32:41.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>harán supresiones.</span></p>
+   <p begin="00:32:41.480" end="00:32:43.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Sin embargo, yo creo</span></p>
+   <p begin="00:32:43.520" end="00:32:47.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>que dentro de todo lo horrible<br />que nos está ocurriendo,</span></p>
+   <p begin="00:32:47.400" end="00:32:51.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>creo que esta pandemia nos ofrece<br />y está dicho hasta la saciedad,</span></p>
+   <p begin="00:32:52.000" end="00:32:56.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>la posibilidad de volver a hablar<br />de cosas que dábamos por hecho,</span></p>
+   <p begin="00:32:56.840" end="00:33:00.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>como que estamos peleando guerras<br />que no son nuestras, por ejemplo,</span></p>
+   <p begin="00:33:00.320" end="00:33:03.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">como que no nos comportamos<br />como región, por ejemplo,</p>
+   <p begin="00:33:03.160" end="00:33:06.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">como que los políticos<br />abusan de su poder</p>
+   <p begin="00:33:07.320" end="00:33:12.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">o como que América Latina<br />es una región adicta a mercachifles,</p>
+   <p begin="00:33:12.400" end="00:33:15.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">flautistas que nos engañan<br />y que nos reprimen.</p>
+   <p begin="00:33:16.440" end="00:33:19.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Creo que nos... que plantea<br />un escenario</p>
+   <p begin="00:33:19.680" end="00:33:22.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">para hablar de cosas con<br />las que habíamos convivido tan largo,</p>
+   <p begin="00:33:22.920" end="00:33:24.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que nos habíamos olvidado<br />hablar de ellas.</p>
+   <p begin="00:33:24.920" end="00:33:28.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y creo ahora subrayadas,<br />creo que seríamos torpes</p>
+   <p begin="00:33:28.920" end="00:33:33.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">si dejamos pasar la oportunidad,<br />una vez pasado el espanto de decir no,</p>
+   <p begin="00:33:33.560" end="00:33:37.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">hoy vamos a hablar de esto.<br />Hoy tenemos que hablar de esto.</p>
+   <p begin="00:33:37.320" end="00:33:41.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [MÚSICA] ♪</p>
+   <p begin="00:33:41.480" end="00:33:44.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">HUGO L. GATELL: El estado de salud<br />del pueblo mexicano</p>
+   <p begin="00:33:45.000" end="00:33:47.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">estaba considerablemente<br />deteriorado</p>
+   <p begin="00:33:47.240" end="00:33:49.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">por las enfermedades crónicas<br />y sigue estando.</p>
+   <p begin="00:33:49.920" end="00:33:53.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Las enfermedades crónicas<br />son la diabetes, la hipertensión,</p>
+   <p begin="00:33:53.840" end="00:33:57.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y están determinadas en mucho<br />por una mala nutrición.</p>
+   <p begin="00:33:58.120" end="00:34:01.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">El pueblo de México lleva<br />más de 40 años</p>
+   <p begin="00:34:01.200" end="00:34:03.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">con una nutrición muy inadecuada</p>
+   <p begin="00:34:04.040" end="00:34:06.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que abarca a la mayoría<br />de las personas</p>
+   <p begin="00:34:06.480" end="00:34:10.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y que nos ha producido la más grande<br />epidemia de obesidad y sobrepeso,</p>
+   <p begin="00:34:11.120" end="00:34:14.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">de diabetes, de hipertensión<br />que hay en el mundo.</p>
+   <p begin="00:34:15.000" end="00:34:18.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Lo que tenemos es un fenómeno<br />que empezó en los años 80</p>
+   <p begin="00:34:18.520" end="00:34:20.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">con las reconversiones industriales</p>
+   <p begin="00:34:20.960" end="00:34:22.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y la expansión<br />de los mercados globales</p>
+   <p begin="00:34:23.040" end="00:34:24.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que cambió la economía</p>
+   <p begin="00:34:24.640" end="00:34:26.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y uno de los elementos<br />de esa economía,</p>
+   <p begin="00:34:26.920" end="00:34:29.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">fue la producción de alimentos.</p>
+   <p begin="00:34:29.560" end="00:34:33.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Estos elementos de una salud<br />previamente afectada</p>
+   <p begin="00:34:33.520" end="00:34:37.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">iban a jugar un papel clave<br />muy desventajoso</p>
+   <p begin="00:34:37.600" end="00:34:40.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">de aumentar las mortalidad<br />en adultos jóvenes.</p>
+   <p begin="00:34:41.680" end="00:34:45.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Si este asunto de la salud<br />fuera integral,</p>
+   <p begin="00:34:45.320" end="00:34:48.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">si no se despreciaran también<br />los conocimientos propios,</p>
+   <p begin="00:34:48.600" end="00:34:49.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">si fuera intercultural,</p>
+   <p begin="00:34:50.000" end="00:34:52.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">yo creo que hubiéramos podido<br />combatir mucho mejor</p>
+   <p begin="00:34:52.760" end="00:34:55.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">eh, por ejemplo, eh, la diabetes,<br />que...</p>
+   <p begin="00:34:56.080" end="00:34:58.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">la comida aquí aún es muy tradicional,</p>
+   <p begin="00:34:58.440" end="00:35:00.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">pero sí es verdad que hay Coca-Cola</p>
+   <p begin="00:35:00.680" end="00:35:02.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y un montón de comida procesada</p>
+   <p begin="00:35:02.640" end="00:35:05.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que ha disparado los niveles<br />de diabetes</p>
+   <p begin="00:35:05.440" end="00:35:08.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y aquí particularmente,<br />como la dieta mesoamericana</p>
+   <p begin="00:35:09.080" end="00:35:13.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">no era, no incluía tantos eh,<br />carbohidratos procesados</p>
+   <p begin="00:35:13.200" end="00:35:14.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">o azúcares procesadas,</p>
+   <p begin="00:35:14.840" end="00:35:18.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">eso es lo que ha hecho<br />en general la pandemia.</p>
+   <p begin="00:35:18.680" end="00:35:22.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Es como desnudar a la gente<br />que ya estaba vulnerable</p>
+   <p begin="00:35:23.160" end="00:35:25.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y, y ponerla como carne de cañón.</p>
+   <p begin="00:35:25.600" end="00:35:26.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [MÚSICA] ♪</p>
+   <p begin="00:35:26.840" end="00:35:29.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: <span>Tuve la oportunidad de hablar</span><br /><span>a la distancia con Yásnaya Aguilar,</span></p>
+   <p begin="00:35:30.040" end="00:35:32.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>mujer ayuuk, lingüista,<br />escritora y activista.</span></p>
+   <p begin="00:35:33.480" end="00:35:36.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Defensora y promotora de los derechos<br />lingüísticos y culturales,</span></p>
+   <p begin="00:35:36.640" end="00:35:40.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>en particular, de la comunidad Mixe<br />en Oaxaca, a la que ella pertenece.</span></p>
+   <p begin="00:35:40.640" end="00:35:42.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Yásnaya estuvo presente<br />en Pan y Circo.</span></p>
+   <p begin="00:35:42.920" end="00:35:45.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>La pueden ver en el episodio<br />que discutimos</span></p>
+   <p begin="00:35:45.280" end="00:35:47.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>"Identidad y racismo."</span></p>
+   <p begin="00:35:47.160" end="00:35:48.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [MÚSICA] ♪</p>
+   <p begin="00:35:48.520" end="00:35:51.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¿Qué sería de la pandemia<br />sin capitalismo y colonialismo?</p>
+   <p begin="00:35:52.040" end="00:35:54.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Yo creo que por lo menos tendríamos<br />que descartar a toda la gente</p>
+   <p begin="00:35:55.000" end="00:35:58.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que fue enfermada con comida procesada</p>
+   <p begin="00:35:59.400" end="00:36:02.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">eh, que creo que en México<br />hasta donde vi la última vez</p>
+   <p begin="00:36:02.680" end="00:36:04.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">los números, era casi la mitad<br />de la mortandad.</p>
+   <p begin="00:36:05.600" end="00:36:08.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Tenemos que entender<br />todo de conjunto,</p>
+   <p begin="00:36:08.480" end="00:36:11.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">no es un tema nada más en una parte</p>
+   <p begin="00:36:11.520" end="00:36:14.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que si somos más,<br />vamos a necesitar más comida,</p>
+   <p begin="00:36:14.640" end="00:36:16.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y por lo tanto hay que producir más.</p>
+   <p begin="00:36:16.760" end="00:36:18.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Hay que entenderlo todo</p>
+   <p begin="00:36:18.520" end="00:36:21.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en un conjunto que es<br />desde dónde lo producimos,</p>
+   <p begin="00:36:21.360" end="00:36:25.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">por ejemplo, la soya,<br />deforestando el Amazonas,</p>
+   <p begin="00:36:25.680" end="00:36:29.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">o el aguacate, destruyendo<br />los bosques de Jalisco</p>
+   <p begin="00:36:29.400" end="00:36:30.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y de Michoacán.</p>
+   <p begin="00:36:31.080" end="00:36:33.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Eh, no quiere decir<br />que no se pueda producir,</p>
+   <p begin="00:36:34.000" end="00:36:37.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">es que se debe de producir<br />correctamente en el sitio correcto.</p>
+   <p begin="00:36:37.600" end="00:36:41.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Eh, ¿cuánto estamos consumiendo<br />de, eh, hidrocarburos,</p>
+   <p begin="00:36:41.560" end="00:36:46.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">de combustibles fósiles<br />para pasar una papaya</p>
+   <p begin="00:36:46.160" end="00:36:48.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que viene de Asia o un...</p>
+   <p begin="00:36:48.760" end="00:36:51.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">o la soya que va de Brasil a China?</p>
+   <p begin="00:36:52.080" end="00:36:54.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">JULIA: <span>Si no entendemos esto</span><br /><span>como un proceso</span></p>
+   <p begin="00:36:55.120" end="00:36:57.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>en el que obligadamente requiere</span></p>
+   <p begin="00:36:57.840" end="00:37:01.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que las políticas, eh,<br />de producción agropecuaria,</p>
+   <p begin="00:37:01.960" end="00:37:05.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">económicas, sociales, de salud,</p>
+   <p begin="00:37:05.680" end="00:37:11.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">ambientales estén trabajando<br />un planteamiento conjunto,</p>
+   <p begin="00:37:11.440" end="00:37:14.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">el tema de la alimentación<br />no lo vamos a resolver.</p>
+   <p begin="00:37:15.200" end="00:37:17.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">La alimentación es una de las cosas<br />que tenemos que pensar, eh,</p>
+   <p begin="00:37:17.760" end="00:37:19.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y eso es de lo que tendríamos<br />que estar hablando.</p>
+   <p begin="00:37:20.040" end="00:37:23.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Es a qué estamos dispuestos<br />a renunciar,</p>
+   <p begin="00:37:23.400" end="00:37:26.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">de cómo nos hemos alimentado<br />históricamente,</p>
+   <p begin="00:37:26.400" end="00:37:28.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">eh, como sociedad y como personas</p>
+   <p begin="00:37:29.080" end="00:37:31.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">para pensar que ese futuro<br />fuera mejor,</p>
+   <p begin="00:37:31.800" end="00:37:35.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">o que ese futuro no sea el que había<br />antes de esta pandemia, ¿no?</p>
+   <p begin="00:37:35.560" end="00:37:37.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">A qué alimentos, a qué formas,</p>
+   <p begin="00:37:37.800" end="00:37:40.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">a qué cosas que se utilizan<br />para cocinar, por ejemplo, ¿no?</p>
+   <p begin="00:37:40.640" end="00:37:43.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Queremos que se reactive<br />tal y como era lo que pasaba antes</p>
+   <p begin="00:37:44.080" end="00:37:45.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">de... de esta situación,</p>
+   <p begin="00:37:46.000" end="00:37:47.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">antes de esta crisis<br />en la que estamos metidos.</p>
+   <p begin="00:37:48.000" end="00:37:50.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">EMILIANO: <span>O sea, ¿realmente queremos</span><br /><span>que la economía sea igual,</span></p>
+   <p begin="00:37:51.040" end="00:37:53.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>se reactive igual, que los procesos<br />se reactiven del mismo modo?</span></p>
+   <p begin="00:37:54.080" end="00:37:57.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Que el virus haya actuado<br />como actuó, por ejemplo,</p>
+   <p begin="00:37:57.160" end="00:37:59.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">tan rápidamente en todo el planeta<br />como dice Julia,</p>
+   <p begin="00:37:59.800" end="00:38:02.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">es porque la globalización<br />ha tenido un derrotero</p>
+   <p begin="00:38:02.520" end="00:38:04.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que quizá no es el que tenía<br />que haber tenido, ¿no?</p>
+   <p begin="00:38:04.600" end="00:38:07.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">A ver, apelando a esa velocidad<br />o a esa conectividad,</p>
+   <p begin="00:38:07.880" end="00:38:09.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">o a esa globalización, doctor,</p>
+   <p begin="00:38:09.680" end="00:38:13.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en estos momentos se están<br />desarrollando varias vacunas</p>
+   <p begin="00:38:13.640" end="00:38:17.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y estamos viendo<br />una cierta cooperación internacional</p>
+   <p begin="00:38:17.280" end="00:38:18.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en la búsqueda de esa vacuna.</p>
+   <p begin="00:38:18.640" end="00:38:21.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¿Hay un mundo donde<br />esa cooperación sucediera</p>
+   <p begin="00:38:22.120" end="00:38:23.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en la prevención?</p>
+   <p begin="00:38:23.840" end="00:38:27.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¿O siempre esa articulación<br />vendrá del desastre?</p>
+   <p begin="00:38:27.160" end="00:38:29.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Desde luego que es<br />una de las tareas pendientes</p>
+   <p begin="00:38:29.440" end="00:38:31.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que tiene la Organización<br />Mundial de la Salud, por ejemplo,</p>
+   <p begin="00:38:31.960" end="00:38:35.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en términos de gestionar<br />una capacidad de vigilancia</p>
+   <p begin="00:38:36.160" end="00:38:39.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y respuesta a este tipo de eventos,</p>
+   <p begin="00:38:39.560" end="00:38:43.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">al menos tan eficaz como es la OTAN</p>
+   <p begin="00:38:43.400" end="00:38:47.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">para responder una amenaza de... de...<br />militar en cualquier lado.</p>
+   <p begin="00:38:47.920" end="00:38:51.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y tenemos que imaginarnos también<br />un sistema sanitario mundial</p>
+   <p begin="00:38:51.680" end="00:38:53.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">mucho más capacitado,</p>
+   <p begin="00:38:53.800" end="00:38:56.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">mucho más fuerte, poderoso,</p>
+   <p begin="00:38:56.160" end="00:38:58.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que pudiera dar respuestas<br />a estas cosas,</p>
+   <p begin="00:38:58.480" end="00:39:00.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">incluyendo producción<br />de medicamentos y vacunas.</p>
+   <p begin="00:39:01.160" end="00:39:04.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">En donde, ciertamente, el motor<br />para producir actualmente</p>
+   <p begin="00:39:04.560" end="00:39:06.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">medicamentos y vacunas,<br />es económico.</p>
+   <p begin="00:39:06.800" end="00:39:09.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">SAMUEL: <span>Hay más de 100 proyectos,</span><br /><span>efectivamente,</span></p>
+   <p begin="00:39:09.120" end="00:39:11.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>con algunos una decena, punteros,</span></p>
+   <p begin="00:39:11.280" end="00:39:14.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">pero lo que falta por venir<br />es muy largo.</p>
+   <p begin="00:39:14.360" end="00:39:17.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Porque falta, efectivamente,<br />demostrar que esos prototipos</p>
+   <p begin="00:39:17.560" end="00:39:20.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">van a ser efectivos en su estímulo<br />de la respuesta,</p>
+   <p begin="00:39:21.080" end="00:39:23.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que vamos a poder medir la dosis,</p>
+   <p begin="00:39:23.440" end="00:39:25.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que vamos a tener los dos<br />o tres modelos ideales</p>
+   <p begin="00:39:26.080" end="00:39:28.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que hay que entonces diseñar<br />un sistema industrial</p>
+   <p begin="00:39:28.800" end="00:39:30.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">para fabricarlos</p>
+   <p begin="00:39:30.160" end="00:39:33.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y una vez que tengamos producidas<br />miles de millones de vacunas,</p>
+   <p begin="00:39:33.280" end="00:39:36.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">dependerá si requieren cadena fría<br />o no requieren cadena fría,</p>
+   <p begin="00:39:36.920" end="00:39:40.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">para llevarlas a todos los países<br />del mundo</p>
+   <p begin="00:39:40.880" end="00:39:44.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">para que lleguen a almacenes<br />y luego llevarlas a las personas.</p>
+   <p begin="00:39:44.160" end="00:39:46.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Vamos, dos años se ve<br />como corto el tiempo, ¿eh?</p>
+   <p begin="00:39:46.680" end="00:39:47.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [MÚSICA] ♪</p>
+   <p begin="00:39:47.960" end="00:39:50.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Desde mis perspectiva,<br />entendiendo que esta pandemia</p>
+   <p begin="00:39:51.000" end="00:39:53.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">lo que vino a mostrarnos<br />es la terrible desigualdad...</p>
+   <p begin="00:39:53.840" end="00:39:55.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- Justo.<br />- ...con la que vivimos.</p>
+   <p begin="00:39:55.520" end="00:39:59.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Yo me pregunto siquiera si<br />lo de las pruebas es, eh, es posible</p>
+   <p begin="00:39:59.520" end="00:40:02.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en un país como el nuestro,<br />porque según yo, no hay debate ahí.</p>
+   <p begin="00:40:02.560" end="00:40:05.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Vamos, se podría pensar<br />en hacer lo que otros países</p>
+   <p begin="00:40:05.640" end="00:40:08.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">han hecho con pruebas<br />o simplemente era una opción</p>
+   <p begin="00:40:08.160" end="00:40:10.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">descartada de antemano<br />por la condición de nuestro país.</p>
+   <p begin="00:40:11.080" end="00:40:13.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No por la condición de nuestro país<br />y no por carencia</p>
+   <p begin="00:40:13.800" end="00:40:18.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y esto es algo que se ha buscado<br />manipular una y otra y otra vez.</p>
+   <p begin="00:40:18.480" end="00:40:22.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Esta idea falsa de que por escasez<br />de financiamiento</p>
+   <p begin="00:40:23.480" end="00:40:26.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">o por querer ahorrar a ultranza,</p>
+   <p begin="00:40:26.360" end="00:40:28.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">no hacemos pruebas, no es así.</p>
+   <p begin="00:40:29.200" end="00:40:31.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No es una decisión administrativa,</p>
+   <p begin="00:40:31.560" end="00:40:35.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">es una decisión científica, técnica,<br />planeada, además.</p>
+   <p begin="00:40:35.560" end="00:40:38.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Desde enero que hicimos<br />la formulación del plan estratégico,</p>
+   <p begin="00:40:38.960" end="00:40:41.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">el manejo de la pandemia<br />de COVID en México,</p>
+   <p begin="00:40:41.520" end="00:40:44.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">definimos qué modelos de vigilancia<br />íbamos a usar.</p>
+   <p begin="00:40:44.560" end="00:40:47.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Hay un fenómeno o unos grupos<br />de fenómenos</p>
+   <p begin="00:40:47.560" end="00:40:49.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que se llaman inconmensurables,<br />no se pueden medir.</p>
+   <p begin="00:40:50.200" end="00:40:53.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Son tan masivos,<br />que es estéril pretender</p>
+   <p begin="00:40:53.760" end="00:40:56.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que los voy a ver uno por uno<br />por uno por uno.</p>
+   <p begin="00:40:57.000" end="00:40:59.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Para eso se inventó la estadística<br />y no se inventó ayer,</p>
+   <p begin="00:40:59.600" end="00:41:00.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">ni se inventó en México.</p>
+   <p begin="00:41:01.000" end="00:41:04.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Tomamos una decisión<br />muy cuidadosa, técnica,</p>
+   <p begin="00:41:04.280" end="00:41:08.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">de racionalizar el uso<br />de los recursos,</p>
+   <p begin="00:41:08.280" end="00:41:10.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">no por ahorrar, no por reducir,</p>
+   <p begin="00:41:10.400" end="00:41:11.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">no porque haya escasez.</p>
+   <p begin="00:41:12.400" end="00:41:15.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Por utilizarlo en lo que es<br />importante utilizarlo.</p>
+   <p begin="00:41:15.520" end="00:41:16.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [SUENA BATERÍA] ♪</p>
+   <p begin="00:41:16.800" end="00:41:18.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: <span>Se comieron.</span>..</p>
+   <p begin="00:41:18.440" end="00:41:20.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">la lasaña y a lo mejor<br />se llenaron, pero...</p>
+   <p begin="00:41:21.280" end="00:41:26.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">esta... esta cosita que inventó<br />Elena Reygadas está cabrona,</p>
+   <p begin="00:41:26.080" end="00:41:28.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">porque es un rol de guayaba.</p>
+   <p begin="00:41:29.160" end="00:41:32.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: <span>Este rol de guayaba,</span><br /><span>yo me levantaba todas las mañanas</span></p>
+   <p begin="00:41:32.640" end="00:41:34.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>y así empezaban mis días,</span></p>
+   <p begin="00:41:34.160" end="00:41:36.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>y como que me daba un remanso,</span></p>
+   <p begin="00:41:36.200" end="00:41:38.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">era como la sensación<br />de que tenía sentido seguir</p>
+   <p begin="00:41:38.760" end="00:41:40.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">porque había rol de guayaba</p>
+   <p begin="00:41:41.320" end="00:41:44.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y nos mandó estos a... a...<br />a Pan y Circo,</p>
+   <p begin="00:41:44.640" end="00:41:46.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que los hicieron además chiquitos</p>
+   <p begin="00:41:46.840" end="00:41:48.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">para que cupieran en la caja.</p>
+   <p begin="00:41:48.400" end="00:41:50.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: <span>Van a odiar la caja,</span><br /><span>pero me dijo “Es que en esa caja</span></p>
+   <p begin="00:41:50.920" end="00:41:52.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>no cabe del tamaño que es.”</span><br />[RISA]</p>
+   <p begin="00:41:52.640" end="00:41:54.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Y entonces, por eso es más chiquito.</span></p>
+   <p begin="00:41:54.680" end="00:41:56.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Están deliciosos, ¿no?</span></p>
+   <p begin="00:41:56.520" end="00:41:58.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Yo, en general, soy pesimista<br />siempre, pero...</p>
+   <p begin="00:41:59.000" end="00:42:00.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[RISA]</p>
+   <p begin="00:42:00.200" end="00:42:02.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Sí, de verdad, y me cuesta<br />mucho no serlo, pero...</p>
+   <p begin="00:42:02.600" end="00:42:06.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en este caso en particular,<br />sí, sí soy bastante optimista</p>
+   <p begin="00:42:06.320" end="00:42:10.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en los últimos años de Atenas,<br />y lo escribe Tucídides,</p>
+   <p begin="00:42:10.160" end="00:42:12.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en una crónica que es<br />de lo último que produce</p>
+   <p begin="00:42:13.320" end="00:42:17.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">eh, Atenas... eh, es una crónica<br />sobre una pandemia, ¿no?</p>
+   <p begin="00:42:17.200" end="00:42:20.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Eh, sobre una pandemia que...<br />con síntomas de enfermedad</p>
+   <p begin="00:42:20.160" end="00:42:23.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">muy parecidos a los del COVID<br />pero que iba mucho más allá,</p>
+   <p begin="00:42:23.360" end="00:42:26.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y esa pandemia dio lugar<br />a una transformación enorme</p>
+   <p begin="00:42:26.560" end="00:42:28.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que es el paso de Grecia a Roma,</p>
+   <p begin="00:42:29.000" end="00:42:31.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que es la institucionalización<br />digamos de... de...</p>
+   <p begin="00:42:31.880" end="00:42:36.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">EMILIANO: <span>o la burocratización</span><br /><span>del pensamiento filosófico griego,</span></p>
+   <p begin="00:42:36.680" end="00:42:38.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>pero está ahí ese cambio, ¿no?</span></p>
+   <p begin="00:42:38.560" end="00:42:40.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Lo que creo que tenemos<br />que aprovechar es que no sea</p>
+   <p begin="00:42:41.120" end="00:42:43.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">una consecuencia de ese mundo nuevo,</p>
+   <p begin="00:42:43.520" end="00:42:45.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">sino que sea algo<br />que podamos pre-configurar.</p>
+   <p begin="00:42:46.080" end="00:42:49.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Entonces, entenderlo como algo así,<br />tratar de reinterpretarlo de ese modo</p>
+   <p begin="00:42:49.560" end="00:42:51.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">o de un modo tan complejo<br />como hizo Dante</p>
+   <p begin="00:42:51.880" end="00:42:53.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">con La Divina comedia, ¿no?</p>
+   <p begin="00:42:53.160" end="00:42:55.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Es decir, es un rumor la peste</p>
+   <p begin="00:42:55.600" end="00:42:57.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en La Divina comedia.<br />No es el tema, ¿no?</p>
+   <p begin="00:42:57.600" end="00:42:59.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Pero es evidente que eso determinó</p>
+   <p begin="00:42:59.520" end="00:43:01.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y fue la puerta de entrada<br />al Renacimiento.</p>
+   <p begin="00:43:01.160" end="00:43:02.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Entonces, por eso soy optimista.<br />[RISA]</p>
+   <p begin="00:43:03.560" end="00:43:06.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- ¡Aunque te cueste!<br />- Un cachito de optimismo me queda.</p>
+   <p begin="00:43:06.400" end="00:43:08.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¡Te duele más que te cuesta!<br />♪ [MÚSICA] ♪</p>
+   <p begin="00:43:08.520" end="00:43:11.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Yo creo que lo que nos ha puesto<br />verdaderamente este virus en jaque,</p>
+   <p begin="00:43:12.680" end="00:43:15.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">eh, por su velocidad es que...</p>
+   <p begin="00:43:15.840" end="00:43:19.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">eh, nos ha puesto a cuestionar<br />el estilo de desarrollo</p>
+   <p begin="00:43:19.640" end="00:43:21.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y el modelo económico<br />que hemos seguido.</p>
+   <p begin="00:43:22.200" end="00:43:24.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Eh... yo sí soy de las que piensa</p>
+   <p begin="00:43:24.840" end="00:43:27.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que la economía<br />tiene que seguir creciendo,</p>
+   <p begin="00:43:27.640" end="00:43:30.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">lo que no puede, es seguir creciendo<br />como venía creciendo.</p>
+   <p begin="00:43:31.120" end="00:43:34.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">JULIA: <span>Yo no creo que tenemos</span><br /><span>que renunciar a hacer cosas</span></p>
+   <p begin="00:43:35.120" end="00:43:37.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>para que las cosas sean<br />más difíciles, por eso...</span></p>
+   <p begin="00:43:37.920" end="00:43:40.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">me parece que la ansiedad que provoca</p>
+   <p begin="00:43:40.640" end="00:43:43.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">el que las cosas no van a ser iguales</p>
+   <p begin="00:43:43.280" end="00:43:48.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">debe de convertirse en el entusiasmo<br />y en el motor de decir:</p>
+   <p begin="00:43:48.920" end="00:43:51.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">“Podemos hacerlas diferentes”.</p>
+   <p begin="00:43:51.280" end="00:43:55.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Porque no hay un problema<br />de falta de conocimiento,</p>
+   <p begin="00:43:55.280" end="00:43:57.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">no hay un problema de tecnología,</p>
+   <p begin="00:43:57.160" end="00:43:59.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">ni siquiera hay un problema de dinero,</p>
+   <p begin="00:43:59.400" end="00:44:01.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">es una cuestión de reajustar<br />las cosas.</p>
+   <p begin="00:44:01.800" end="00:44:04.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Los científicos están aportando<br />una ciencia,</p>
+   <p begin="00:44:04.920" end="00:44:07.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">como ahorita se está viendo,<br />que hay que escuchar</p>
+   <p begin="00:44:07.800" end="00:44:11.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y que hay que incorporar<br />en la toma de decisiones.</p>
+   <p begin="00:44:11.480" end="00:44:14.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Me parece que una de las grandes<br />posibilidades</p>
+   <p begin="00:44:15.040" end="00:44:19.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">de esta crisis es cómo podemos<br />juntar los diferentes factores</p>
+   <p begin="00:44:19.760" end="00:44:22.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y cómo podemos pensar<br />en maneras de sumarnos</p>
+   <p begin="00:44:23.080" end="00:44:25.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">a las denuncias,<br />a las exigencias de justicia,</p>
+   <p begin="00:44:25.880" end="00:44:27.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">a las posibilidades de acción.</p>
+   <p begin="00:44:27.960" end="00:44:29.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">El problema no es<br />que haya dos discursos,</p>
+   <p begin="00:44:29.880" end="00:44:31.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">sino que hay dos entendimientos,</p>
+   <p begin="00:44:31.560" end="00:44:34.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y el problema siempre me parece<br />no es solo el discurso,</p>
+   <p begin="00:44:34.200" end="00:44:35.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">sino es desde dónde se está mirando,</p>
+   <p begin="00:44:35.920" end="00:44:37.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">dónde está siendo imposible mirar.</p>
+   <p begin="00:44:37.960" end="00:44:42.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Entonces, cómo vamos a hacer<br />para también sacudir un poco</p>
+   <p begin="00:44:42.560" end="00:44:45.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">esas cabezas tercas<br />que no alcanzan a entender</p>
+   <p begin="00:44:45.440" end="00:44:47.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">las mejores maneras de atender</p>
+   <p begin="00:44:47.680" end="00:44:52.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y de responder y cómo... confiamos,<br />pues, en que tenemos que...</p>
+   <p begin="00:44:52.440" end="00:44:56.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">tenemos que aprender a ser distinto<br />y a atender distinto</p>
+   <p begin="00:44:56.920" end="00:44:58.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">todos estos fenómenos, ¿no?</p>
+   <p begin="00:44:58.400" end="00:44:59.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [SUENA BATERÍA] ♪</p>
+   <p begin="00:44:59.760" end="00:45:02.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Hay que repensar las relaciones,<br />este, de trabajo.</p>
+   <p begin="00:45:02.920" end="00:45:05.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">En los restaurantes... han estado...</p>
+   <p begin="00:45:05.600" end="00:45:08.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Los restaurantes han subsidiado<br />con el estilo de vida</p>
+   <p begin="00:45:08.760" end="00:45:10.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">de la gente que se dedica<br />a los restaurantes,</p>
+   <p begin="00:45:10.600" end="00:45:12.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">un tema gastronómico, una vida...</p>
+   <p begin="00:45:13.040" end="00:45:15.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que casi con orgullo<br />todo mundo te dice,</p>
+   <p begin="00:45:15.320" end="00:45:18.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">“Trabajo 16 horas al día, siete días<br />a la semana, gua, gua, gua”,</p>
+   <p begin="00:45:18.640" end="00:45:20.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">la verdad es que eso<br />no es sustentable ni es positivo.</p>
+   <p begin="00:45:21.440" end="00:45:24.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">JAIR: <span>Pero, sí, definitivamente,</span><br /><span>los jóvenes</span></p>
+   <p begin="00:45:24.680" end="00:45:28.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que deciden dedicarse<br />a la alimentación, a la hospitalidad,</p>
+   <p begin="00:45:28.480" end="00:45:31.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">pues van a tener que, o sea,<br />seguramente,</p>
+   <p begin="00:45:31.440" end="00:45:33.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">van a ver cosas<br />que yo no estoy viendo</p>
+   <p begin="00:45:33.480" end="00:45:34.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y eso me ilusiona mucho,</p>
+   <p begin="00:45:35.000" end="00:45:37.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">porque quiero pensar que ellos<br />van a ver cosas</p>
+   <p begin="00:45:37.160" end="00:45:39.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que nos van a llevar a resultados<br />mucho más óptimos</p>
+   <p begin="00:45:39.720" end="00:45:41.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y mucho mejores y a ser...</p>
+   <p begin="00:45:41.200" end="00:45:43.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">vivir más en sintonía<br />con el medio ambiente,</p>
+   <p begin="00:45:44.000" end="00:45:46.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">vivir más en sintonía<br />con los otros seres humanos, ¿no?</p>
+   <p begin="00:45:47.240" end="00:45:48.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [MÚSICA] ♪</p>
+   <p begin="00:45:48.600" end="00:45:50.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">A finales del año pasado,</p>
+   <p begin="00:45:51.320" end="00:45:53.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">eh, veíamos el horizonte,</p>
+   <p begin="00:45:53.200" end="00:45:55.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">yo lo veía obscuro<br />ante el calentamiento global.</p>
+   <p begin="00:45:56.800" end="00:46:00.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y qué bueno que los jóvenes,<br />las nuevas generaciones</p>
+   <p begin="00:46:00.680" end="00:46:01.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que ya apuntaban,</p>
+   <p begin="00:46:02.080" end="00:46:03.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">tengan la oportunidad<br />de que sí puede ser diferente</p>
+   <p begin="00:46:03.960" end="00:46:05.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">la producción industrial,</p>
+   <p begin="00:46:05.320" end="00:46:06.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>por lo menos se puede parar.</span></p>
+   <p begin="00:46:06.800" end="00:46:08.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">SAMUEL: <span>Tenemos parado todo ahorita.</span></p>
+   <p begin="00:46:08.880" end="00:46:11.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Aviones, combustibles,</span></p>
+   <p begin="00:46:11.320" end="00:46:15.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">carbón, movimiento, economía.<br />Todo se paró.</p>
+   <p begin="00:46:15.680" end="00:46:19.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Por lo menos, es una muestra<br />de que esto se puede modificar.</p>
+   <p begin="00:46:20.120" end="00:46:24.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y bueno, nos vino a ayudar aquí<br />esta minúscula partícula viral</p>
+   <p begin="00:46:24.480" end="00:46:27.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">a mostrarnos que, bueno,<br />hay algunas formas</p>
+   <p begin="00:46:27.360" end="00:46:28.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en que se puede hacer esto.</p>
+   <p begin="00:46:28.960" end="00:46:31.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Yo agradezco muchísimo<br />que Pan y Circo...</p>
+   <p begin="00:46:32.320" end="00:46:35.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">pueda ser esto,<br />aunque me encantaría</p>
+   <p begin="00:46:35.840" end="00:46:38.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que algún día regresara<br />a ser lo que, lo que era</p>
+   <p begin="00:46:39.040" end="00:46:41.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">para... para ser distinto, además.</p>
+   <p begin="00:46:41.880" end="00:46:44.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Eh, le quiero agradecer</p>
+   <p begin="00:46:44.440" end="00:46:47.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">a ustedes cinco, pero a todo el equipo</p>
+   <p begin="00:46:47.320" end="00:46:50.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">que cuando haces el programa<br />en una computadora</p>
+   <p begin="00:46:50.480" end="00:46:53.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y con tus teléfonos, parecieran<br />estar más distantes</p>
+   <p begin="00:46:53.640" end="00:46:57.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y quiero, eh, decirles que están<br />más presentes que nunca.</p>
+   <p begin="00:46:57.240" end="00:47:00.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Pan y Circo no es algo que se acabó<br />con ese mundo que se quedó atrás,</p>
+   <p begin="00:47:00.880" end="00:47:04.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">sino que evolucionará<br />para hacer mejor la reflexión</p>
+   <p begin="00:47:04.960" end="00:47:08.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y traer la creatividad necesaria<br />para que construyamos</p>
+   <p begin="00:47:08.680" end="00:47:12.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">esa realidad en la que podemos vivir<br />a raíz de este suceso</p>
+   <p begin="00:47:12.480" end="00:47:13.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">tan terrible y doloroso,</p>
+   <p begin="00:47:14.080" end="00:47:17.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">eh, y cómo podemos darle la vuelta,<br />así que...</p>
+   <p begin="00:47:17.560" end="00:47:19.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">voy a acabar este programa,<br />se los quiero decir,</p>
+   <p begin="00:47:20.080" end="00:47:22.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">todos acaban yo diciendo: “Se acabó.”</p>
+   <p begin="00:47:22.520" end="00:47:25.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Pero ahora, en esta nueva<br />comunicación, todos decimos, “adiós”,</p>
+   <p begin="00:47:25.440" end="00:47:27.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: <span>y luego nos seguimos viendo</span><br /><span>como por dos o tres minutos</span></p>
+   <p begin="00:47:27.840" end="00:47:29.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>en lo que vemos cómo chingados<br />apagarle a todo.</span></p>
+   <p begin="00:47:30.120" end="00:47:31.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[RISA]<br /><span>Así va a acabar este programa,</span></p>
+   <p begin="00:47:32.120" end="00:47:34.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>eh, que tiene que ver<br />con la nueva comunicación</span></p>
+   <p begin="00:47:34.440" end="00:47:36.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>y la dinámica de este confinamiento.</span></p>
+   <p begin="00:47:37.040" end="00:47:38.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span>Gracias por estar aquí</span></p>
+   <p begin="00:47:38.760" end="00:47:41.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y nos vemos, eh, en persona</p>
+   <p begin="00:47:41.600" end="00:47:43.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">en cuanto esta pandemia lo permita.</p>
+   <p begin="00:47:43.920" end="00:47:48.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Pues, muchísimas gracias a todos,<br />realmente fue un lujo esta plática.</p>
+   <p begin="00:47:48.680" end="00:47:49.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¡Bye!</p>
+   <p begin="00:47:49.920" end="00:47:51.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¡Qué chingonería! Gracias, la neta.</p>
+   <p begin="00:47:52.240" end="00:47:53.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- Claro que sí.<br />- Gracias.</p>
+   <p begin="00:47:53.720" end="00:47:56.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Adiós, mil gracias a todos, ¿eh?<br />¡Chao!</p>
+   <p begin="00:47:56.680" end="00:48:01.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [SUENA BATERÍA] ♪</p>
+   <p begin="00:48:01.920" end="00:48:03.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Yo empezaría de lo íntimo.</p>
+   <p begin="00:48:04.320" end="00:48:07.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Yo empezaría por el tuyo,<br />el cómo te sientes.</p>
+   <p begin="00:48:07.920" end="00:48:09.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¿Cuántos días llevas encerrado?</p>
+   <p begin="00:48:09.760" end="00:48:12.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¿Cómo has mantenido<br />el contacto emocional</p>
+   <p begin="00:48:12.960" end="00:48:15.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: que no físico con la gente que amas?</p>
+   <p begin="00:48:15.400" end="00:48:17.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">HOMBRE 1: Tiene que haber<br />un replanteamiento de...</p>
+   <p begin="00:48:17.840" end="00:48:20.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">pues, básicamente de todas<br />nuestras relaciones en general.</p>
+   <p begin="00:48:20.920" end="00:48:24.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">PI: Ese movimiento, esa manifestación<br />que venía de una ola muy grande,</p>
+   <p begin="00:48:24.440" end="00:48:26.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">tres días después, se silenció.</p>
+   <p begin="00:48:27.280" end="00:48:30.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: Mañana viene Christopher<br />por las cajas en la mañana,</p>
+   <p begin="00:48:30.640" end="00:48:32.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">entonces ahí se definirá.</p>
+   <p begin="00:48:32.400" end="00:48:34.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: Pero seguimos<br />con el mismo problema, o sea,</p>
+   <p begin="00:48:35.040" end="00:48:37.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">si hacemos a López-Gatell a la una...</p>
+   <p begin="00:48:37.840" end="00:48:39.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¿Otra vez?</p>
+   <p begin="00:48:39.640" end="00:48:40.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¿Ya volví?</p>
+   <p begin="00:48:42.080" end="00:48:44.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No, pues ya no volví, ¿verdad?<br />Ahí me avisan cuando vuelva.</p>
+   <p begin="00:48:44.880" end="00:48:46.440" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [MÚSICA] ♪</p>
+   <p begin="00:48:46.600" end="00:48:49.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">HOMBRE 2: Yo creo que estamos teniendo<br />una conexión de Internet lenta.</p>
+   <p begin="00:48:49.840" end="00:48:53.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DAPTNHE: Sí, por eso le estoy diciendo<br />que si tú enfocas.</p>
+   <p begin="00:48:53.200" end="00:48:54.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">HOMBRE 4: Yo le he puesto aquí una pantalla.</p>
+   <p begin="00:48:55.040" end="00:48:57.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">MUJER 2: A ver, ya, ya me metí a la cámara.</p>
+   <p begin="00:48:57.480" end="00:49:00.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">MUJER 2: El círculo blanco, ¿verdad?<br />HOMBRE 4: Correcto.</p>
+   <p begin="00:49:00.600" end="00:49:01.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¿Hola?</p>
+   <p begin="00:49:02.120" end="00:49:04.880" region="AmazonDefaultRegion" style="AmazonDefaultStyle">MUJER 3: Nuestra propuesta<br />era con el... con el título</p>
+   <p begin="00:49:05.040" end="00:49:07.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">y con el primer tiempo,<br />segundo tiempo y tercer tiempo,</p>
+   <p begin="00:49:08.000" end="00:49:09.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">hacerlo a cámara.</p>
+   <p begin="00:49:09.920" end="00:49:12.280" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Y es lo que le tendríamos<br />que pedir a los personajes.</p>
+   <p begin="00:49:12.440" end="00:49:14.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">HOMBRE 4:<br />Y que cubrimos este ángulo...</p>
+   <p begin="00:49:14.760" end="00:49:16.520" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[HABLA INGLÉS]</p>
+   <p begin="00:49:16.840" end="00:49:19.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">HOMBRE 5: Me refería como justo,<br />como un conocimiento más preciso</p>
+   <p begin="00:49:19.440" end="00:49:22.400" region="AmazonDefaultRegion" style="AmazonDefaultStyle">de lo que está pasando<br />y que además está en riesgo.</p>
+   <p begin="00:49:22.480" end="00:49:24.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">MUJER 4: ¿Ya está?<br />HOMBRE 4: Correcto.</p>
+   <p begin="00:49:25.040" end="00:49:28.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">HOMBRE 4: Y necesitamos a Jair.<br />Jair, ¿puedes venir?</p>
+   <p begin="00:49:28.600" end="00:49:31.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">HOMBRE 5: Tengo que volver<br />a conectarme a tu teléfono.</p>
+   <p begin="00:49:31.240" end="00:49:32.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">OK.</p>
+   <p begin="00:49:32.280" end="00:49:34.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: No más abajo del esternón.</p>
+   <p begin="00:49:34.320" end="00:49:36.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Este, si es que este es<br />el esternón, porque...</p>
+   <p begin="00:49:36.680" end="00:49:37.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[RISA]</p>
+   <p begin="00:49:38.080" end="00:49:42.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">PI: Tú vas a tener el multicam<br />cuadro completo de cada personaje.</p>
+   <p begin="00:49:42.520" end="00:49:45.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">HOMBRE 4: Meterte a su casa,<br />estar ahí, un rato salir,<br />meterte por el Zoom.</p>
+   <p begin="00:49:46.480" end="00:49:49.040" region="AmazonDefaultRegion" style="AmazonDefaultStyle">DIEGO: En cuanto estemos listos<br />con lo técnico, arrancamos.</p>
+   <p begin="00:49:49.360" end="00:49:50.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">¡Órale!</p>
+   <p begin="00:49:50.400" end="00:49:52.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">MUJER 4:<br />¡Ay! ¡Qué nervios! ¡Venga!</p>
+   <p begin="00:49:52.880" end="00:49:54.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [SUENA BATERÍA] ♪</p>
+   <p begin="00:49:54.800" end="00:49:57.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Yo apago la Mac entonces.<br />Gracias, ¡adiós!</p>
+   <p begin="00:49:57.800" end="00:49:59.560" region="AmazonDefaultRegion" style="AmazonDefaultStyle">HOMBRE 5: Ya estamos. ¡Cuídense!</p>
+   <p begin="00:49:59.720" end="00:50:02.760" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [SUENA BATERÍA] ♪</p>
+   <p begin="00:50:02.920" end="00:50:04.000" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[INDISTINTO]<br />Felicidades.</p>
+   <p begin="00:50:04.080" end="00:50:05.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[INDISTINTO]<br />Seguridad ante todo.</p>
+   <p begin="00:50:05.360" end="00:50:07.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[INDISTINTO]<br />- ¡Felicidades!<br />- ¡Se les quiere!</p>
+   <p begin="00:50:07.880" end="00:50:09.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪ [TERMINA MÚSICA] ♪</p>
+  </div>
+ </body></tt>
