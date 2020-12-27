@@ -5,7 +5,7 @@
     "description": "Extract and view subtitle files and learn vocabulary from them",
 
     "icons": {
-        "48": "../img/cc-regular-48.png"
+        "48": "/static/img/cc-regular-48.png"
     },
 
     "permissions": [
@@ -25,9 +25,9 @@
     "page_action": {
         "browser_style": true,
         "default_icon": {
-            "48": "../img/cc-regular-grey-48.png"
+            "48": "/static/img/cc-regular-grey-48.png"
         },
         "default_title": "View available subtitles",
-        "default_popup": "popup.html" 
+        "default_popup": "popup.html"
     }
 }

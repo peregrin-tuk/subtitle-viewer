@@ -1,0 +1,159 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('/static/fonts/icomoon.eot?90lvrq');
+  src:  url('/static/fonts/icomoon.eot?90lvrq#iefix') format('embedded-opentype'),
+    url('/static/fonts/icomoon.ttf?90lvrq') format('truetype'),
+    url('/static/fonts/icomoon.woff?90lvrq') format('woff'),
+    url('/static/fonts/icomoon.svg?90lvrq#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-add-to-list:before {
+  content: "\e900";
+}
+.icon-warning:before {
+  content: "\e901";
+}
+.icon-arrow-bold-down:before {
+  content: "\e902";
+}
+.icon-chevron-down:before {
+  content: "\e903";
+}
+.icon-chevron-left:before {
+  content: "\e904";
+}
+.icon-chevron-right:before {
+  content: "\e905";
+}
+.icon-chevron-up:before {
+  content: "\e906";
+}
+.icon-controller-jump-to-start:before {
+  content: "\e907";
+}
+.icon-controller-next:before {
+  content: "\e908";
+}
+.icon-controller-paus:before {
+  content: "\e909";
+}
+.icon-controller-play:before {
+  content: "\e90a";
+}
+.icon-controller-stop:before {
+  content: "\e90b";
+}
+.icon-dots-three-vertical:before {
+  content: "\e90c";
+}
+.icon-download:before {
+  content: "\e90d";
+}
+.icon-install:before {
+  content: "\e90e";
+}
+.icon-resize-100:before {
+  content: "\e90f";
+}
+.icon-resize-full-screen:before {
+  content: "\e910";
+}
+.icon-save:before {
+  content: "\e911";
+}
+.icon-trash:before {
+  content: "\e912";
+}
+.icon-upload:before {
+  content: "\e913";
+}
+.icon-book:before {
+  content: "\e914";
+}
+.icon-check:before {
+  content: "\e915";
+}
+.icon-circle-with-cross:before {
+  content: "\e916";
+}
+.icon-circle-with-minus:before {
+  content: "\e917";
+}
+.icon-circle-with-plus:before {
+  content: "\e918";
+}
+.icon-cross:before {
+  content: "\e919";
+}
+.icon-edit:before {
+  content: "\e91a";
+}
+.icon-erase:before {
+  content: "\e91b";
+}
+.icon-export:before {
+  content: "\e91c";
+}
+.icon-eye:before {
+  content: "\e91d";
+}
+.icon-folder:before {
+  content: "\e91e";
+}
+.icon-forward:before {
+  content: "\e91f";
+}
+.icon-hair-cross:before {
+  content: "\e920";
+}
+.icon-info-with-circle:before {
+  content: "\e921";
+}
+.icon-language:before {
+  content: "\e922";
+}
+.icon-log-out:before {
+  content: "\e923";
+}
+.icon-mobile:before {
+  content: "\e924";
+}
+.icon-squared-cross:before {
+  content: "\e925";
+}
+.icon-squared-minus:before {
+  content: "\e926";
+}
+.icon-squared-plus:before {
+  content: "\e927";
+}
+.icon-stopwatch:before {
+  content: "\e928";
+}
+.icon-text-document:before {
+  content: "\e929";
+}
+.icon-traffic-cone:before {
+  content: "\e92a";
+}
+.icon-tv:before {
+  content: "\e92b";
+}

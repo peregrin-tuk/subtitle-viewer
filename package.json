@@ -16,6 +16,8 @@
     "parcel-plugin-web-extension": "^1.6.1"
   },
   "dependencies": {
+    "sass": "^1.30.0",
+    "spectre.css": "^0.5.9",
     "subtitle": "^4.0.1"
   }
 }
