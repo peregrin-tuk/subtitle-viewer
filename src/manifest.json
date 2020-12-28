@@ -29,5 +29,9 @@
         },
         "default_title": "View available subtitles",
         "default_popup": "popup.html"
-    }
+    },
+
+    "web_accessible_resources": [
+        "viewer.html"
+    ]
 }

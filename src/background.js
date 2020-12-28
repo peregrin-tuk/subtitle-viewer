@@ -138,6 +138,11 @@ function getAllFromStorage() {
     }
 }
 
+function openViewer(originUrl) {
+    let baseUrl = browser.runtime.getURL("viewer.html");
+    browser.tabs.create({ url: baseUrl + '?origin=' + encodeURIComponent(JSON.stringify(originUrl)) });
+}
+
 
 
 /////////////  MESSAGING  /////////////
@@ -150,11 +155,11 @@ function handleMessage(request, sender, sendResponse) {
                 break;
             case "openViewer":
                 if (subtitleCache[request.url].existsInStorage) {
-                    browser.tabs.create({ url: 'viewer.html' })
+                    openViewer(request.url);
                 } else {
                     fetchAndParseSubtitles(subtitleCache[request.url].subFileUrl)
                         .then(subtitleArray => saveToStorage(subtitleCache[request.url].title, request.url, subtitleArray))
-                        .then(() => browser.tabs.create({ url: 'viewer.html' }));
+                        .then(() => openViewer(request.url));
                 }
                 break;
             case "getCacheForUrl":

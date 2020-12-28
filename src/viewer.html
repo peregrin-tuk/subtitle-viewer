@@ -1,11 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>SUBBER Subtitle Viewer</title>
+    <link rel="stylesheet" href="styles/custom-spectre.scss">
+    <link rel="stylesheet" href="styles/icons.css">
+    <link rel="stylesheet" href="styles/styles.scss">
 </head>
+
 <body>
     <h1>welcome to the subs viewer!</h1>
+    <div id="content"></div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>time</th>
+                <th>caption</th>
+            </tr>
+        </thead>
+        <tbody id="tableBody">
+        </tbody>
+    </table>
+
+    <template id="tableRowTemplate">
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+    </template>
+
+    <script src="viewer.js"></script>
 </body>
+
 </html>
